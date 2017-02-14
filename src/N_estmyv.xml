@@ -1,0 +1,9511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="est">
+  <e>
+    <lg>
+      <l pos="N">(piima) koor</l>
+      <stg>
+        <st Contlex="N_">(piima) koor</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">велькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">-poolis</l>
+      <stg>
+        <st Contlex="N_">-poolis</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пель; -пель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">aasta</l>
+      <stg>
+        <st Contlex="N_">aasta</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ие</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">abi</l>
+      <stg>
+        <st Contlex="N_">abi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лезэ</t>
+        <t pos="N">лезкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">abikaasa</l>
+      <stg>
+        <st Contlex="N_">abikaasa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пола</t>
+        <t pos="N">мирде</t>
+        <t pos="N">ни</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">abivahend</l>
+      <stg>
+        <st Contlex="N_">abivahend</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лезэ</t>
+        <t pos="N">лезкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">aed</l>
+      <stg>
+        <st Contlex="N_">aed</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пире</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">aeg</l>
+      <stg>
+        <st Contlex="N_">aeg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">шка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ahi</l>
+      <stg>
+        <st Contlex="N_">ahi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">каштом</t>
+        <t pos="N">каштомо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ahv</l>
+      <stg>
+        <st Contlex="N_">ahv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">обезьган</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ajaleht</l>
+      <stg>
+        <st Contlex="N_">ajaleht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">газет</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">aju</l>
+      <stg>
+        <st Contlex="N_">aju</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">удем</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">aju(d)</l>
+      <stg>
+        <st Contlex="N_">aju(d)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">прев(ть)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">aken</l>
+      <stg>
+        <st Contlex="N_">aken</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вальма</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">allikas</l>
+      <stg>
+        <st Contlex="N_">allikas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лисьмапря</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">alus</l>
+      <stg>
+        <st Contlex="N_">alus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">алкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">armastus</l>
+      <stg>
+        <st Contlex="N_">armastus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вечкема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">aru</l>
+      <stg>
+        <st Contlex="N_">aru</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">прев(ть)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">arusaamine</l>
+      <stg>
+        <st Contlex="N_">arusaamine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чарькодема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">arv</l>
+      <stg>
+        <st Contlex="N_">arv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ламочи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">arvamus</l>
+      <stg>
+        <st Contlex="N_">arvamus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">арсема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">arve</l>
+      <stg>
+        <st Contlex="N_">arve</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">конёв</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">arvukus</l>
+      <stg>
+        <st Contlex="N_">arvukus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ламочи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ase</l>
+      <stg>
+        <st Contlex="N_">ase</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эзем</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">auditoorium</l>
+      <stg>
+        <st Contlex="N_">auditoorium</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">аудитория</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">auk</l>
+      <stg>
+        <st Contlex="N_">auk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">варя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">aur</l>
+      <stg>
+        <st Contlex="N_">aur</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кошт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">auto</l>
+      <stg>
+        <st Contlex="N_">auto</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">машина</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">buss</l>
+      <stg>
+        <st Contlex="N_">buss</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">бус</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">doktor</l>
+      <stg>
+        <st Contlex="N_">doktor</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">доктор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">dokument</l>
+      <stg>
+        <st Contlex="N_">dokument</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">документ</t>
+        <t pos="N">конёв</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">dokument</l>
+      <stg>
+        <st Contlex="N_">dokument</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">конёв</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">eesosa</l>
+      <stg>
+        <st Contlex="N_">eesosa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">икелькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">eestlane</l>
+      <stg>
+        <st Contlex="N_">eestlane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эстон</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">eksimus</l>
+      <stg>
+        <st Contlex="N_">eksimus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ильведевкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">elamine</l>
+      <stg>
+        <st Contlex="N_">elamine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эрямо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">elanik</l>
+      <stg>
+        <st Contlex="N_">elanik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эриця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">elu</l>
+      <stg>
+        <st Contlex="N_">elu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эрямо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">eluaeg</l>
+      <stg>
+        <st Contlex="N_">eluaeg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пинге</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ema</l>
+      <stg>
+        <st Contlex="N_">ema</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ema moodi laps</l>
+      <stg>
+        <st Contlex="N_">ema moodi laps</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">авака левкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ema tütrega</l>
+      <stg>
+        <st Contlex="N_">ema tütrega</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ават-тейтерть</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ersa</l>
+      <stg>
+        <st Contlex="N_">ersa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эрзя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ersalane</l>
+      <stg>
+        <st Contlex="N_">ersalane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эрзя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ersalanna</l>
+      <stg>
+        <st Contlex="N_">ersalanna</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эрзява</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">esik</l>
+      <stg>
+        <st Contlex="N_">esik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кудыкелькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">esmaspäev</l>
+      <stg>
+        <st Contlex="N_">esmaspäev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пондельник</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">film</l>
+      <stg>
+        <st Contlex="N_">film</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">фильма</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">folkloor</l>
+      <stg>
+        <st Contlex="N_">folkloor</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">фольклор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">foto</l>
+      <stg>
+        <st Contlex="N_">foto</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">фото</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">giid</l>
+      <stg>
+        <st Contlex="N_">giid</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ветиця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">haigus</l>
+      <stg>
+        <st Contlex="N_">haigus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">орма</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hammas</l>
+      <stg>
+        <st Contlex="N_">hammas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hapupiim</l>
+      <stg>
+        <st Contlex="N_">hapupiim</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кефир</t>
+        <t pos="N">чапамоловсо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hari</l>
+      <stg>
+        <st Contlex="N_">hari</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сэме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">headus</l>
+      <stg>
+        <st Contlex="N_">headus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">парочи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hein</l>
+      <stg>
+        <st Contlex="N_">hein</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тикше</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">helmed</l>
+      <stg>
+        <st Contlex="N_">helmed</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">човалят</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">helmed</l>
+      <stg>
+        <st Contlex="N_">helmed</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эрьгть</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">helmes</l>
+      <stg>
+        <st Contlex="N_">helmes</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эрьге</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hernes</l>
+      <stg>
+        <st Contlex="N_">hernes</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кснав</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hiir</l>
+      <stg>
+        <st Contlex="N_">hiir</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чеерь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hind</l>
+      <stg>
+        <st Contlex="N_">hind</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">питне</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hing</l>
+      <stg>
+        <st Contlex="N_">hing</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ойме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hobune</l>
+      <stg>
+        <st Contlex="N_">hobune</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лишме</t>
+        <t pos="N">алаша</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hoov</l>
+      <stg>
+        <st Contlex="N_">hoov</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кардаз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hunt</l>
+      <stg>
+        <st Contlex="N_">hunt</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">верьгиз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">huul</l>
+      <stg>
+        <st Contlex="N_">huul</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">турва</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">häbi</l>
+      <stg>
+        <st Contlex="N_">häbi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">визькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">häll</l>
+      <stg>
+        <st Contlex="N_">häll</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лавсь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hämarik</l>
+      <stg>
+        <st Contlex="N_">hämarik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сундерькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">härg</l>
+      <stg>
+        <st Contlex="N_">härg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">бука</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hääl</l>
+      <stg>
+        <st Contlex="N_">hääl</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вайгель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hõbe</l>
+      <stg>
+        <st Contlex="N_">hõbe</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hõim</l>
+      <stg>
+        <st Contlex="N_">hõim</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">буе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">hõimu pealik</l>
+      <stg>
+        <st Contlex="N_">hõimu pealik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кезэрь</t>
+        <t pos="N">инязор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ida</l>
+      <stg>
+        <st Contlex="N_">ida</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чилисема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">igatsus</l>
+      <stg>
+        <st Contlex="N_">igatsus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мельмолема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ikoon</l>
+      <stg>
+        <st Contlex="N_">ikoon</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пазава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ilm</l>
+      <stg>
+        <st Contlex="N_">ilm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">менелькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ilmaratas</l>
+      <stg>
+        <st Contlex="N_">ilmaratas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">покш-чарый</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ilu</l>
+      <stg>
+        <st Contlex="N_">ilu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мазычи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">imik</l>
+      <stg>
+        <st Contlex="N_">imik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эйде</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">infoleht</l>
+      <stg>
+        <st Contlex="N_">infoleht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">инфо-лопа</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">inglane</l>
+      <stg>
+        <st Contlex="N_">inglane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">англа</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">inglise keel</l>
+      <stg>
+        <st Contlex="N_">inglise keel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">англань кель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">inimene</l>
+      <stg>
+        <st Contlex="N_">inimene</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ломань</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">isa moodi laps</l>
+      <stg>
+        <st Contlex="N_">isa moodi laps</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тетака левкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">isa pojaga</l>
+      <stg>
+        <st Contlex="N_">isa pojaga</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тетят-цёрат</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">iseloom</l>
+      <stg>
+        <st Contlex="N_">iseloom</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">iseloom</l>
+      <stg>
+        <st Contlex="N_">iseloom</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пона</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jalatsid</l>
+      <stg>
+        <st Contlex="N_">jalatsid</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">карсемапельть</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jalg</l>
+      <stg>
+        <st Contlex="N_">jalg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пильге</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jogurt</l>
+      <stg>
+        <st Contlex="N_">jogurt</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">йогурт</t>
+        <t pos="N">чапамоловсо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">joon</l>
+      <stg>
+        <st Contlex="N_">joon</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ён</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">juhataja</l>
+      <stg>
+        <st Contlex="N_">juhataja</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">прявт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">juht</l>
+      <stg>
+        <st Contlex="N_">juht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ветиця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jumal</l>
+      <stg>
+        <st Contlex="N_">jumal</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">паз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">juur</l>
+      <stg>
+        <st Contlex="N_">juur</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">юр</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">juus</l>
+      <stg>
+        <st Contlex="N_">juus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">черь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jänes</l>
+      <stg>
+        <st Contlex="N_">jänes</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нумоло</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">järv</l>
+      <stg>
+        <st Contlex="N_">järv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эрьке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jää</l>
+      <stg>
+        <st Contlex="N_">jää</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эй</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jääpurikas (sarv)</l>
+      <stg>
+        <st Contlex="N_">jääpurikas (sarv)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эйзюро (-сюро)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jõgi</l>
+      <stg>
+        <st Contlex="N_">jõgi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jõud</l>
+      <stg>
+        <st Contlex="N_">jõud</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вий</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jõud</l>
+      <stg>
+        <st Contlex="N_">jõud</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">зэме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jõulud</l>
+      <stg>
+        <st Contlex="N_">jõulud</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">роштова</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kaal</l>
+      <stg>
+        <st Contlex="N_">kaal</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">онкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kael</l>
+      <stg>
+        <st Contlex="N_">kael</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кирга</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kaev</l>
+      <stg>
+        <st Contlex="N_">kaev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лисьма</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kahju</l>
+      <stg>
+        <st Contlex="N_">kahju</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">зыян</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kahjum</l>
+      <stg>
+        <st Contlex="N_">kahjum</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кажо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kaigas</l>
+      <stg>
+        <st Contlex="N_">kaigas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цётмар</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kala</l>
+      <stg>
+        <st Contlex="N_">kala</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kallistus</l>
+      <stg>
+        <st Contlex="N_">kallistus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кутмордавкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kalm</l>
+      <stg>
+        <st Contlex="N_">kalm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">калмо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kalmistu</l>
+      <stg>
+        <st Contlex="N_">kalmistu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">калмоланго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kalts</l>
+      <stg>
+        <st Contlex="N_">kalts</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нула</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kamm</l>
+      <stg>
+        <st Contlex="N_">kamm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сурсеме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kana</l>
+      <stg>
+        <st Contlex="N_">kana</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сараз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kanapoeg</l>
+      <stg>
+        <st Contlex="N_">kanapoeg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ципака</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kangas</l>
+      <stg>
+        <st Contlex="N_">kangas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">коцт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kann</l>
+      <stg>
+        <st Contlex="N_">kann</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кече</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kannel</l>
+      <stg>
+        <st Contlex="N_">kannel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кайга</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kapp</l>
+      <stg>
+        <st Contlex="N_">kapp</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кече</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">karjalane</l>
+      <stg>
+        <st Contlex="N_">karjalane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">карел</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kartul</l>
+      <stg>
+        <st Contlex="N_">kartul</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">модамарь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">karu</l>
+      <stg>
+        <st Contlex="N_">karu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">овто</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">karupoeg</l>
+      <stg>
+        <st Contlex="N_">karupoeg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">овтолевкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kask</l>
+      <stg>
+        <st Contlex="N_">kask</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">килей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kass</l>
+      <stg>
+        <st Contlex="N_">kass</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">катка</t>
+        <t pos="N">псака</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kate</l>
+      <stg>
+        <st Contlex="N_">kate</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">руця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kate</l>
+      <stg>
+        <st Contlex="N_">kate</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ацамот</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kaunistus</l>
+      <stg>
+        <st Contlex="N_">kaunistus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мазыйка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kaupmees</l>
+      <stg>
+        <st Contlex="N_">kaupmees</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">микшниця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kauss</l>
+      <stg>
+        <st Contlex="N_">kauss</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вакан</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">keel</l>
+      <stg>
+        <st Contlex="N_">keel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">keha</l>
+      <stg>
+        <st Contlex="N_">keha</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">рунго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kere</l>
+      <stg>
+        <st Contlex="N_">kere</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">рунго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">keskkoht</l>
+      <stg>
+        <st Contlex="N_">keskkoht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">куншка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">keskne</l>
+      <stg>
+        <st Contlex="N_">keskne</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">куншка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kett</l>
+      <stg>
+        <st Contlex="N_">kett</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">рисьме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kevad</l>
+      <stg>
+        <st Contlex="N_">kevad</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тундо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kevad-</l>
+      <stg>
+        <st Contlex="N_">kevad-</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">инечи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kibuvits</l>
+      <stg>
+        <st Contlex="N_">kibuvits</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">овтумарь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kiik</l>
+      <stg>
+        <st Contlex="N_">kiik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нурямо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kilomeeter</l>
+      <stg>
+        <st Contlex="N_">kilomeeter</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вайгельбе (-пе)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">king</l>
+      <stg>
+        <st Contlex="N_">king</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кота</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kingitus</l>
+      <stg>
+        <st Contlex="N_">kingitus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">казне</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kiri</l>
+      <stg>
+        <st Contlex="N_">kiri</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сёрма</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kirik</l>
+      <stg>
+        <st Contlex="N_">kirik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">церькова</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kirikukell</l>
+      <stg>
+        <st Contlex="N_">kirikukell</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">баяга</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kirves</l>
+      <stg>
+        <st Contlex="N_">kirves</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">узере</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kivi</l>
+      <stg>
+        <st Contlex="N_">kivi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кев</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">klaas</l>
+      <stg>
+        <st Contlex="N_">klaas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сулика</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">klaaspärlid</l>
+      <stg>
+        <st Contlex="N_">klaaspärlid</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">човалят</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">klubi</l>
+      <stg>
+        <st Contlex="N_">klubi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">клуб</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kodu</l>
+      <stg>
+        <st Contlex="N_">kodu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кудо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">koer</l>
+      <stg>
+        <st Contlex="N_">koer</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пине</t>
+        <t pos="N">киска</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">koht</l>
+      <stg>
+        <st Contlex="N_">koht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тарка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kohtumine</l>
+      <stg>
+        <st Contlex="N_">kohtumine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вастома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kohupiim</l>
+      <stg>
+        <st Contlex="N_">kohupiim</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">топо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kohv</l>
+      <stg>
+        <st Contlex="N_">kohv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кофия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kolmapäev</l>
+      <stg>
+        <st Contlex="N_">kolmapäev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">серяда</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">komm</l>
+      <stg>
+        <st Contlex="N_">komm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кантьветка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kord</l>
+      <stg>
+        <st Contlex="N_">kord</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лув</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kott</l>
+      <stg>
+        <st Contlex="N_">kott</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кескав</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kudumine</l>
+      <stg>
+        <st Contlex="N_">kudumine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кодамо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kuju</l>
+      <stg>
+        <st Contlex="N_">kuju</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чачо</t>
+        <t pos="N">шачо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kukk</l>
+      <stg>
+        <st Contlex="N_">kukk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">атякш</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kukkel</l>
+      <stg>
+        <st Contlex="N_">kukkel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сюкоро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kuld</l>
+      <stg>
+        <st Contlex="N_">kuld</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сырне</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kuningas</l>
+      <stg>
+        <st Contlex="N_">kuningas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кезэрь</t>
+        <t pos="N">инязор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kurg</l>
+      <stg>
+        <st Contlex="N_">kurg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">карго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kurivaim</l>
+      <stg>
+        <st Contlex="N_">kurivaim</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">идемевсь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kurk</l>
+      <stg>
+        <st Contlex="N_">kurk (kurgi)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">куяр</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kurk</l>
+      <stg>
+        <st Contlex="N_">kurk (kurgu)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">киргапарь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kuu</l>
+      <stg>
+        <st Contlex="N_">kuu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ков</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kuusk</l>
+      <stg>
+        <st Contlex="N_">kuusk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">куз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">käepide</l>
+      <stg>
+        <st Contlex="N_">käepide</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">недь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">käevõru</l>
+      <stg>
+        <st Contlex="N_">käevõru</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кедькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kärbes</l>
+      <stg>
+        <st Contlex="N_">kärbes</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">карво</t>
+        <t pos="N">карув</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">käsi</l>
+      <stg>
+        <st Contlex="N_">käsi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кедь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">käterätik</l>
+      <stg>
+        <st Contlex="N_">käterätik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нардамо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">käärid</l>
+      <stg>
+        <st Contlex="N_">käärid</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">васоньбеельть (-пеель)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kõht</l>
+      <stg>
+        <st Contlex="N_">kõht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пеке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kõrgus</l>
+      <stg>
+        <st Contlex="N_">kõrgus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сэрь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kõri</l>
+      <stg>
+        <st Contlex="N_">kõri</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">киргапарь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kõrv</l>
+      <stg>
+        <st Contlex="N_">kõrv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пиле</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kõrvarõngad</l>
+      <stg>
+        <st Contlex="N_">kõrvarõngad</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пилекст</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kõu</l>
+      <stg>
+        <st Contlex="N_">kõu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пурьгине</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">köha</l>
+      <stg>
+        <st Contlex="N_">köha</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">козома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">köögivili</l>
+      <stg>
+        <st Contlex="N_">köögivili</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эмеж</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">köögiviljaaed</l>
+      <stg>
+        <st Contlex="N_">köögiviljaaed</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эмежпире</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">küla</l>
+      <stg>
+        <st Contlex="N_">küla</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">веле</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">küla alumine ots</l>
+      <stg>
+        <st Contlex="N_">küla alumine ots</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ало пе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">külaline</l>
+      <stg>
+        <st Contlex="N_">külaline</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">инже</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">külalistemaja</l>
+      <stg>
+        <st Contlex="N_">külalistemaja</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">инжень кудо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">külg</l>
+      <stg>
+        <st Contlex="N_">külg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ён</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">küngas</l>
+      <stg>
+        <st Contlex="N_">küngas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мар</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">küngas</l>
+      <stg>
+        <st Contlex="N_">küngas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пандо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">küsimus</l>
+      <stg>
+        <st Contlex="N_">küsimus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кевкстема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">küünar</l>
+      <stg>
+        <st Contlex="N_">küünar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кенере</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">küüs</l>
+      <stg>
+        <st Contlex="N_">küüs</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кенже</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laat</l>
+      <stg>
+        <st Contlex="N_">laat</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ярмунка</t>
+        <t pos="N">найман</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laat</l>
+      <stg>
+        <st Contlex="N_">laat</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">найман</t>
+        <t pos="N">ярмунка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">labidas</l>
+      <stg>
+        <st Contlex="N_">labidas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">койме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lahtine kartulipirukas</l>
+      <stg>
+        <st Contlex="N_">lahtine kartulipirukas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">панжакай</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laiskus</l>
+      <stg>
+        <st Contlex="N_">laiskus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нузякс</t>
+        <t pos="N">нузяксчи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laius</l>
+      <stg>
+        <st Contlex="N_">laius</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">келе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lammas</l>
+      <stg>
+        <st Contlex="N_">lammas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">реве</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lapp</l>
+      <stg>
+        <st Contlex="N_">lapp</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нула</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laps</l>
+      <stg>
+        <st Contlex="N_">laps</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эйкакш</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laps</l>
+      <stg>
+        <st Contlex="N_">laps</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">левкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lapselaps</l>
+      <stg>
+        <st Contlex="N_">lapselaps</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нуцька</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lapsepõlv</l>
+      <stg>
+        <st Contlex="N_">lapsepõlv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эйкакшчи</t>
+        <t pos="N">эйкакшпинге</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">latv</l>
+      <stg>
+        <st Contlex="N_">latv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тёкш</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laud</l>
+      <stg>
+        <st Contlex="N_">laud</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лаз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laul</l>
+      <stg>
+        <st Contlex="N_">laul</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">моро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laulja</l>
+      <stg>
+        <st Contlex="N_">laulja</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">морыця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laulmine</l>
+      <stg>
+        <st Contlex="N_">laulmine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">морамо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laup</l>
+      <stg>
+        <st Contlex="N_">laup</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">коня</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laupäev</l>
+      <stg>
+        <st Contlex="N_">laupäev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">субута</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">laut</l>
+      <stg>
+        <st Contlex="N_">laut</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кардо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">leedulane</l>
+      <stg>
+        <st Contlex="N_">leedulane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">литов</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lehm</l>
+      <stg>
+        <st Contlex="N_">lehm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">скал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">leht</l>
+      <stg>
+        <st Contlex="N_">leht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лопа</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">leib</l>
+      <stg>
+        <st Contlex="N_">leib</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кши</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">leivaema</l>
+      <stg>
+        <st Contlex="N_">leivaema</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">норовава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lell</l>
+      <stg>
+        <st Contlex="N_">lell</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">леля</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lepp</l>
+      <stg>
+        <st Contlex="N_">lepp</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лепе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">liblikas</l>
+      <stg>
+        <st Contlex="N_">liblikas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нимиляв</t>
+        <t pos="N">имбиляв</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">liha</l>
+      <stg>
+        <st Contlex="N_">liha</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сывель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lihavõttepühad</l>
+      <stg>
+        <st Contlex="N_">lihavõttepühad</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">инечи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">liist</l>
+      <stg>
+        <st Contlex="N_">liist</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лаз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lill</l>
+      <stg>
+        <st Contlex="N_">lill</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">баляга</t>
+        <t pos="N">цеця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lina</l>
+      <stg>
+        <st Contlex="N_">lina</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лияназ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lind</l>
+      <stg>
+        <st Contlex="N_">lind</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нармунь</t>
+        <t pos="N">-о-</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">linn</l>
+      <stg>
+        <st Contlex="N_">linn</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ош</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">linnu-)</l>
+      <stg>
+        <st Contlex="N_">linnu-)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">левкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">loeng</l>
+      <stg>
+        <st Contlex="N_">loeng</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лекция</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">loodus</l>
+      <stg>
+        <st Contlex="N_">loodus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">перть-пелькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">loom</l>
+      <stg>
+        <st Contlex="N_">loom</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ракша</t>
+        <t pos="N">идемракша</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lubadus</l>
+      <stg>
+        <st Contlex="N_">lubadus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">алтавкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lugemine</l>
+      <stg>
+        <st Contlex="N_">lugemine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ловнома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lugemispala</l>
+      <stg>
+        <st Contlex="N_">lugemispala</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ловномапель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lumi</l>
+      <stg>
+        <st Contlex="N_">lumi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лов</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lusikas</l>
+      <stg>
+        <st Contlex="N_">lusikas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пенч</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lätlane</l>
+      <stg>
+        <st Contlex="N_">lätlane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">латыж</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lääs</l>
+      <stg>
+        <st Contlex="N_">lääs</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чивалгома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lõhn</l>
+      <stg>
+        <st Contlex="N_">lõhn</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чине</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lõke</l>
+      <stg>
+        <st Contlex="N_">lõke</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">толбандя (пандя ‘peenar’)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lõng</l>
+      <stg>
+        <st Contlex="N_">lõng</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">суре</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lõngakera</l>
+      <stg>
+        <st Contlex="N_">lõngakera</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">керькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">lõngakera</l>
+      <stg>
+        <st Contlex="N_">lõngakera</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кире</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">maa</l>
+      <stg>
+        <st Contlex="N_">maa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мода</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">maa</l>
+      <stg>
+        <st Contlex="N_">maa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мастор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">maapind</l>
+      <stg>
+        <st Contlex="N_">maapind</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мода</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">maasikas</l>
+      <stg>
+        <st Contlex="N_">maasikas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кстый</t>
+        <t pos="N">кистый</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">madu</l>
+      <stg>
+        <st Contlex="N_">madu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">гуй</t>
+        <t pos="N">куй</t>
+        <t pos="N">ёзнэ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">magamiskoht</l>
+      <stg>
+        <st Contlex="N_">magamiskoht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">удома тарка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">maja</l>
+      <stg>
+        <st Contlex="N_">maja</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кудо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">maja sisemus</l>
+      <stg>
+        <st Contlex="N_">maja sisemus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кудопотмо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">majarahvas</l>
+      <stg>
+        <st Contlex="N_">majarahvas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кудораське</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">maks</l>
+      <stg>
+        <st Contlex="N_">maks</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">максо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mall</l>
+      <stg>
+        <st Contlex="N_">mall</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мазыйка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mari (keel)</l>
+      <stg>
+        <st Contlex="N_">mari (keel)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мари (кель)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">meel</l>
+      <stg>
+        <st Contlex="N_">meel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mees</l>
+      <stg>
+        <st Contlex="N_">mees</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мирде</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mees</l>
+      <stg>
+        <st Contlex="N_">mees</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цёра</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mees</l>
+      <stg>
+        <st Contlex="N_">mees</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">атя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mees (rahvaluules)</l>
+      <stg>
+        <st Contlex="N_">mees (rahvaluules)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">андямо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">meesterahvas</l>
+      <stg>
+        <st Contlex="N_">meesterahvas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цёра-ломань</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mehe õde</l>
+      <stg>
+        <st Contlex="N_">mehe õde</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">парыя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">meri</l>
+      <stg>
+        <st Contlex="N_">meri</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">иневедь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mesi</l>
+      <stg>
+        <st Contlex="N_">mesi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">медь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mesila</l>
+      <stg>
+        <st Contlex="N_">mesila</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нешкепире</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mesilane</l>
+      <stg>
+        <st Contlex="N_">mesilane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мекш</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mesipuu</l>
+      <stg>
+        <st Contlex="N_">mesipuu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нешке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mets</l>
+      <stg>
+        <st Contlex="N_">mets</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вирь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">metslind (part)</l>
+      <stg>
+        <st Contlex="N_">metslind (part)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">идемка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">metsloom</l>
+      <stg>
+        <st Contlex="N_">metsloom</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ракша</t>
+        <t pos="N">идемракша</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">metsloom</l>
+      <stg>
+        <st Contlex="N_">metsloom</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">идем ракша</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">minia</l>
+      <stg>
+        <st Contlex="N_">minia</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">урьва</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mokša</l>
+      <stg>
+        <st Contlex="N_">mokša</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мокшо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mokšalanna</l>
+      <stg>
+        <st Contlex="N_">mokšalanna</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мокшава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">muda</l>
+      <stg>
+        <st Contlex="N_">muda</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">рудаз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">muinasjutt</l>
+      <stg>
+        <st Contlex="N_">muinasjutt</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ёвкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">muld</l>
+      <stg>
+        <st Contlex="N_">muld</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мода</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">muna</l>
+      <stg>
+        <st Contlex="N_">muna</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mure</l>
+      <stg>
+        <st Contlex="N_">mure</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мелявкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mure</l>
+      <stg>
+        <st Contlex="N_">mure</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ризкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">murre</l>
+      <stg>
+        <st Contlex="N_">murre</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кортавкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">muster</l>
+      <stg>
+        <st Contlex="N_">muster</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">арт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">muusika</l>
+      <stg>
+        <st Contlex="N_">muusika</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">музыка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mäda</l>
+      <stg>
+        <st Contlex="N_">mäda</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сый</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mägi</l>
+      <stg>
+        <st Contlex="N_">mägi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пандо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mänd</l>
+      <stg>
+        <st Contlex="N_">mänd</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пиче</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mänguasi</l>
+      <stg>
+        <st Contlex="N_">mänguasi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">налкшке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">märk</l>
+      <stg>
+        <st Contlex="N_">märk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тешкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mõdu</l>
+      <stg>
+        <st Contlex="N_">mõdu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пуре</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mõistatus</l>
+      <stg>
+        <st Contlex="N_">mõistatus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">содамоёвкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mõistus</l>
+      <stg>
+        <st Contlex="N_">mõistus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">прев(ть)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mõte</l>
+      <stg>
+        <st Contlex="N_">mõte</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">арсема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mõõt</l>
+      <stg>
+        <st Contlex="N_">mõõt</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">онкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mürin</l>
+      <stg>
+        <st Contlex="N_">mürin</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пурьгине</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mürin</l>
+      <stg>
+        <st Contlex="N_">mürin</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">зэрть</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">müüja</l>
+      <stg>
+        <st Contlex="N_">müüja</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">микшниця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">naaber</l>
+      <stg>
+        <st Contlex="N_">naaber</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">шабра</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nahariba</l>
+      <stg>
+        <st Contlex="N_">nahariba</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кшнань каркс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nahk</l>
+      <stg>
+        <st Contlex="N_">nahk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кедь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">naine</l>
+      <stg>
+        <st Contlex="N_">naine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ни</t>
+        <t pos="N">ава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">naine</l>
+      <stg>
+        <st Contlex="N_">naine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">naisterahvas</l>
+      <stg>
+        <st Contlex="N_">naisterahvas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ава-ломань</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">narts</l>
+      <stg>
+        <st Contlex="N_">narts</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нула</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">neel</l>
+      <stg>
+        <st Contlex="N_">neel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">киргапарь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">neiu</l>
+      <stg>
+        <st Contlex="N_">neiu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тейтерь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">neljapäev</l>
+      <stg>
+        <st Contlex="N_">neljapäev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цетьверьк</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nimi</l>
+      <stg>
+        <st Contlex="N_">nimi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лем</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nina</l>
+      <stg>
+        <st Contlex="N_">nina</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">судо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nisu</l>
+      <stg>
+        <st Contlex="N_">nisu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">товзюро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nolk</l>
+      <stg>
+        <st Contlex="N_">nolk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нолгарь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nolk</l>
+      <stg>
+        <st Contlex="N_">nolk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нолго туло</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nool</l>
+      <stg>
+        <st Contlex="N_">nool</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">noorem vend</l>
+      <stg>
+        <st Contlex="N_">noorem vend</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ялакс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">noorema poja naine</l>
+      <stg>
+        <st Contlex="N_">noorema poja naine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пенерьва</t>
+        <t pos="N">урьвине</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">noorik</l>
+      <stg>
+        <st Contlex="N_">noorik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">одирьва</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">noorus</l>
+      <stg>
+        <st Contlex="N_">noorus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">одксчи</t>
+        <t pos="N">одкспора</t>
+        <t pos="N">одкспинге</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nuga</l>
+      <stg>
+        <st Contlex="N_">nuga</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пеель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nukk</l>
+      <stg>
+        <st Contlex="N_">nukk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">няка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nurm</l>
+      <stg>
+        <st Contlex="N_">nurm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кужо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nädal</l>
+      <stg>
+        <st Contlex="N_">nädal</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тарго</t>
+        <t pos="N">недля</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nägu</l>
+      <stg>
+        <st Contlex="N_">nägu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чама</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nägu</l>
+      <stg>
+        <st Contlex="N_">nägu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чачо</t>
+        <t pos="N">шачо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">näitus</l>
+      <stg>
+        <st Contlex="N_">näitus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">невтема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nälg</l>
+      <stg>
+        <st Contlex="N_">nälg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вачочи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nõel</l>
+      <stg>
+        <st Contlex="N_">nõel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">салмукс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nöör</l>
+      <stg>
+        <st Contlex="N_">nöör</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пикс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">oja</l>
+      <stg>
+        <st Contlex="N_">oja</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чудикерькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">oks</l>
+      <stg>
+        <st Contlex="N_">oks</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тарад</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">onu</l>
+      <stg>
+        <st Contlex="N_">onu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">леля</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ookean</l>
+      <stg>
+        <st Contlex="N_">ookean</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">иневедь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">orav</l>
+      <stg>
+        <st Contlex="N_">orav</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ур</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">orb</l>
+      <stg>
+        <st Contlex="N_">orb</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">уроз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ori</l>
+      <stg>
+        <st Contlex="N_">ori</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">уре</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">osa</l>
+      <stg>
+        <st Contlex="N_">osa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пелькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">oskus</l>
+      <stg>
+        <st Contlex="N_">oskus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ёрок</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ots</l>
+      <stg>
+        <st Contlex="N_">ots</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ots</l>
+      <stg>
+        <st Contlex="N_">ots</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">коня</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">paat</l>
+      <stg>
+        <st Contlex="N_">paat</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">венч</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">paber</l>
+      <stg>
+        <st Contlex="N_">paber</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">документ</t>
+        <t pos="N">конёв</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">paber</l>
+      <stg>
+        <st Contlex="N_">paber</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">конёв</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">padi</l>
+      <stg>
+        <st Contlex="N_">padi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тодов</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pakane</l>
+      <stg>
+        <st Contlex="N_">pakane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">якшамо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pala</l>
+      <stg>
+        <st Contlex="N_">pala</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пал</t>
+        <t pos="N">пакш</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pale</l>
+      <stg>
+        <st Contlex="N_">pale</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чама</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">palumine</l>
+      <stg>
+        <st Contlex="N_">palumine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">энялдома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">palve</l>
+      <stg>
+        <st Contlex="N_">palve</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">энялдома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">palve</l>
+      <stg>
+        <st Contlex="N_">palve</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">озкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">palvetamine</l>
+      <stg>
+        <st Contlex="N_">palvetamine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">озкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">palvetamine</l>
+      <stg>
+        <st Contlex="N_">palvetamine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ознома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pats (-saba)</l>
+      <stg>
+        <st Contlex="N_">pats (-saba)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">черьбуло (-пуло)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">patt</l>
+      <stg>
+        <st Contlex="N_">patt</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пежеть</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pea</l>
+      <stg>
+        <st Contlex="N_">pea</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пря</t>
+        <t pos="N">пиря</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">peakate</l>
+      <stg>
+        <st Contlex="N_">peakate</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">панго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pealisrõivas</l>
+      <stg>
+        <st Contlex="N_">pealisrõivas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">руця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">peenar</l>
+      <stg>
+        <st Contlex="N_">peenar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пандя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">peni</l>
+      <stg>
+        <st Contlex="N_">peni</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пине</t>
+        <t pos="N">киска</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pension</l>
+      <stg>
+        <st Contlex="N_">pension</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пенсия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">peotäis</l>
+      <stg>
+        <st Contlex="N_">peotäis</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">коморо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">perekond</l>
+      <stg>
+        <st Contlex="N_">perekond</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кудораське</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">peremees</l>
+      <stg>
+        <st Contlex="N_">peremees</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">азор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">peremees</l>
+      <stg>
+        <st Contlex="N_">peremees</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кудазор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">perenaine</l>
+      <stg>
+        <st Contlex="N_">perenaine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">азорава</t>
+        <t pos="N">кудазорава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pesa</l>
+      <stg>
+        <st Contlex="N_">pesa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пизэ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pide</l>
+      <stg>
+        <st Contlex="N_">pide</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">недь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pihlakas</l>
+      <stg>
+        <st Contlex="N_">pihlakas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пизёл</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">piim</l>
+      <stg>
+        <st Contlex="N_">piim</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ловсо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">piip</l>
+      <stg>
+        <st Contlex="N_">piip</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цилем</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pilet</l>
+      <stg>
+        <st Contlex="N_">pilet</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">билет</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pilliroost toru</l>
+      <stg>
+        <st Contlex="N_">pilliroost toru</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нудей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pilv</l>
+      <stg>
+        <st Contlex="N_">pilv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пель</t>
+        <t pos="N">ковол</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pink</l>
+      <stg>
+        <st Contlex="N_">pink</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эзем</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pirukas</l>
+      <stg>
+        <st Contlex="N_">pirukas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пряка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pisar</l>
+      <stg>
+        <st Contlex="N_">pisar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сельведь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">poeg</l>
+      <stg>
+        <st Contlex="N_">poeg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цёра</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">poeg (looma-</l>
+      <stg>
+        <st Contlex="N_">poeg (looma-</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">левкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">poiss</l>
+      <stg>
+        <st Contlex="N_">poiss</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цёрыне</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pooik</l>
+      <stg>
+        <st Contlex="N_">pooik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пель; -пель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pool</l>
+      <stg>
+        <st Contlex="N_">pool</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ён</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pool</l>
+      <stg>
+        <st Contlex="N_">pool</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пель; -пель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pori</l>
+      <stg>
+        <st Contlex="N_">pori</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">рудаз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pott</l>
+      <stg>
+        <st Contlex="N_">pott</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чакш</t>
+        <t pos="N">чакшке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">prantslane</l>
+      <stg>
+        <st Contlex="N_">prantslane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">француз (кранцыз)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">prillid</l>
+      <stg>
+        <st Contlex="N_">prillid</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сельмукшт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pudel</l>
+      <stg>
+        <st Contlex="N_">pudel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сулика</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">puder</l>
+      <stg>
+        <st Contlex="N_">puder</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">каша</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">purskkaev</l>
+      <stg>
+        <st Contlex="N_">purskkaev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">фонтан</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">puu</l>
+      <stg>
+        <st Contlex="N_">puu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чувто</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">puud (endisaegne massiühik)</l>
+      <stg>
+        <st Contlex="N_">puud (endisaegne massiühik)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пондо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">puukoor</l>
+      <stg>
+        <st Contlex="N_">puukoor</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">керь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">päev</l>
+      <stg>
+        <st Contlex="N_">päev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">päevavalgus</l>
+      <stg>
+        <st Contlex="N_">päevavalgus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чивалдо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pähkel</l>
+      <stg>
+        <st Contlex="N_">pähkel</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пеште</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">päike</l>
+      <stg>
+        <st Contlex="N_">päike</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чи</t>
+        <t pos="N">чипай</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">päikeseloojang</l>
+      <stg>
+        <st Contlex="N_">päikeseloojang</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чивалгома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">päikesetõus</l>
+      <stg>
+        <st Contlex="N_">päikesetõus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чилисема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pärm</l>
+      <stg>
+        <st Contlex="N_">pärm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">оргат</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pääsuke</l>
+      <stg>
+        <st Contlex="N_">pääsuke</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цянав</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">põhi</l>
+      <stg>
+        <st Contlex="N_">põhi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">алкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">põhjus</l>
+      <stg>
+        <st Contlex="N_">põhjus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тувтал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">põld</l>
+      <stg>
+        <st Contlex="N_">põld</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пакся</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">põlv</l>
+      <stg>
+        <st Contlex="N_">põlv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кума(н)жа</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">põrand</l>
+      <stg>
+        <st Contlex="N_">põrand</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">киякс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">põrsas</l>
+      <stg>
+        <st Contlex="N_">põrsas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пурсоз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pöial</l>
+      <stg>
+        <st Contlex="N_">pöial</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пелька</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">pühapäev</l>
+      <stg>
+        <st Contlex="N_">pühapäev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">недьлячи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">raamat</l>
+      <stg>
+        <st Contlex="N_">raamat</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кинига</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">raamatukogu</l>
+      <stg>
+        <st Contlex="N_">raamatukogu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">библиотека</t>
+        <t pos="N">ловнома кудо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">raba</l>
+      <stg>
+        <st Contlex="N_">raba</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">начко тарка</t>
+        <t pos="N">летьке тарка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rada</l>
+      <stg>
+        <st Contlex="N_">rada</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ки</t>
+        <t pos="N">ян</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">raha</l>
+      <stg>
+        <st Contlex="N_">raha</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ярмак</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rahe</l>
+      <stg>
+        <st Contlex="N_">rahe</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цярахман</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rahulolu</l>
+      <stg>
+        <st Contlex="N_">rahulolu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мельспаро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rahvas</l>
+      <stg>
+        <st Contlex="N_">rahvas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">раське</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ratas</l>
+      <stg>
+        <st Contlex="N_">ratas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чарый</t>
+        <t pos="N">чаро</t>
+        <t pos="N">чары</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">raud</l>
+      <stg>
+        <st Contlex="N_">raud</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кшни</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ravim</l>
+      <stg>
+        <st Contlex="N_">ravim</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ормаменькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rebane</l>
+      <stg>
+        <st Contlex="N_">rebane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ривезь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">reede</l>
+      <stg>
+        <st Contlex="N_">reede</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пеця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">regi</l>
+      <stg>
+        <st Contlex="N_">regi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нурдо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">reisimine</l>
+      <stg>
+        <st Contlex="N_">reisimine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ки ланго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ribi</l>
+      <stg>
+        <st Contlex="N_">ribi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ирьдекс</t>
+        <t pos="N">ирьдез</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rihm</l>
+      <stg>
+        <st Contlex="N_">rihm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">каркс</t>
+        <t pos="N">кшнань каркс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">riietus</l>
+      <stg>
+        <st Contlex="N_">riietus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">оршамо</t>
+        <t pos="N">оршамопель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">riik</l>
+      <stg>
+        <st Contlex="N_">riik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мастор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rind</l>
+      <stg>
+        <st Contlex="N_">rind</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">меште</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rind</l>
+      <stg>
+        <st Contlex="N_">rind</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">рунго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ring</l>
+      <stg>
+        <st Contlex="N_">ring</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кужо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ring</l>
+      <stg>
+        <st Contlex="N_">ring</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">куро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rohi</l>
+      <stg>
+        <st Contlex="N_">rohi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тикше</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rong</l>
+      <stg>
+        <st Contlex="N_">rong</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">поезд</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rooste</l>
+      <stg>
+        <st Contlex="N_">rooste</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чемень</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rootslane</l>
+      <stg>
+        <st Contlex="N_">rootslane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">швед</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rukis</l>
+      <stg>
+        <st Contlex="N_">rukis</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">розь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rätik</l>
+      <stg>
+        <st Contlex="N_">rätik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">паця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rõõm</l>
+      <stg>
+        <st Contlex="N_">rõõm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кеняркс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rõõm</l>
+      <stg>
+        <st Contlex="N_">rõõm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мельспаро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rüü</l>
+      <stg>
+        <st Contlex="N_">rüü</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">руця</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">saabas</l>
+      <stg>
+        <st Contlex="N_">saabas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кем</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">saal</l>
+      <stg>
+        <st Contlex="N_">saal</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">зал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">saan</l>
+      <stg>
+        <st Contlex="N_">saan</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нурдо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">saapad</l>
+      <stg>
+        <st Contlex="N_">saapad</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кемть</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">saar</l>
+      <stg>
+        <st Contlex="N_">saar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">усия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">saba</l>
+      <stg>
+        <st Contlex="N_">saba</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пуло</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sajand</l>
+      <stg>
+        <st Contlex="N_">sajand</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пинге</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sakslane</l>
+      <stg>
+        <st Contlex="N_">sakslane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">немець (ерман)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sammal</l>
+      <stg>
+        <st Contlex="N_">sammal</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нупонь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sapp</l>
+      <stg>
+        <st Contlex="N_">sapp</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сэпе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sarv</l>
+      <stg>
+        <st Contlex="N_">sarv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сюро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">saun</l>
+      <stg>
+        <st Contlex="N_">saun</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">баня</t>
+        <t pos="N">шлямо кудо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">savi</l>
+      <stg>
+        <st Contlex="N_">savi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сёвонь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">seeme</l>
+      <stg>
+        <st Contlex="N_">seeme</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">видьме</t>
+        <t pos="N">видсть</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">seen</l>
+      <stg>
+        <st Contlex="N_">seen</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">панго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">seep</l>
+      <stg>
+        <st Contlex="N_">seep</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сапонь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">selg</l>
+      <stg>
+        <st Contlex="N_">selg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">копорь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sibul</l>
+      <stg>
+        <st Contlex="N_">sibul</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чурька</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">side</l>
+      <stg>
+        <st Contlex="N_">side</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сюлмавкс</t>
+        <t pos="N">сюлмо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">siga</l>
+      <stg>
+        <st Contlex="N_">siga</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">туво</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">siil</l>
+      <stg>
+        <st Contlex="N_">siil</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сеель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">siit</l>
+      <stg>
+        <st Contlex="N_">siit</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">парсей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sild</l>
+      <stg>
+        <st Contlex="N_">sild</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сэдь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">silm</l>
+      <stg>
+        <st Contlex="N_">silm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сельме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sirp</l>
+      <stg>
+        <st Contlex="N_">sirp</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тарваз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sisemus</l>
+      <stg>
+        <st Contlex="N_">sisemus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">потмо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sisu</l>
+      <stg>
+        <st Contlex="N_">sisu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">зэме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">soga</l>
+      <stg>
+        <st Contlex="N_">soga</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">бутра</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">soo</l>
+      <stg>
+        <st Contlex="N_">soo</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">начко тарка</t>
+        <t pos="N">летьке тарка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sool</l>
+      <stg>
+        <st Contlex="N_">sool</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">soomlane</l>
+      <stg>
+        <st Contlex="N_">soomlane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">финн</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">soon</l>
+      <stg>
+        <st Contlex="N_">soon</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сан</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">soov</l>
+      <stg>
+        <st Contlex="N_">soov</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">арсема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sugukond</l>
+      <stg>
+        <st Contlex="N_">sugukond</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">буе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">suits</l>
+      <stg>
+        <st Contlex="N_">suits</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">качамо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sulane</l>
+      <stg>
+        <st Contlex="N_">sulane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">важо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sulg</l>
+      <stg>
+        <st Contlex="N_">sulg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">толга</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">supp</l>
+      <stg>
+        <st Contlex="N_">supp</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ям</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">suu</l>
+      <stg>
+        <st Contlex="N_">suu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">курго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">suulagi</l>
+      <stg>
+        <st Contlex="N_">suulagi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">курго менель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">suusk</l>
+      <stg>
+        <st Contlex="N_">suusk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сокс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">suvi</l>
+      <stg>
+        <st Contlex="N_">suvi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кизэ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">säde</l>
+      <stg>
+        <st Contlex="N_">säde</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сятко</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">särk</l>
+      <stg>
+        <st Contlex="N_">särk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">панар</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">säär</l>
+      <stg>
+        <st Contlex="N_">säär</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">серька</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sääsk</l>
+      <stg>
+        <st Contlex="N_">sääsk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сеське</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõber</l>
+      <stg>
+        <st Contlex="N_">sõber</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ялга</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõlg</l>
+      <stg>
+        <st Contlex="N_">sõlg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сюлгамо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõlm</l>
+      <stg>
+        <st Contlex="N_">sõlm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сюлмо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõna</l>
+      <stg>
+        <st Contlex="N_">sõna</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõnaraamat</l>
+      <stg>
+        <st Contlex="N_">sõnaraamat</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">валкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõnastik</l>
+      <stg>
+        <st Contlex="N_">sõnastik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">валкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõprus</l>
+      <stg>
+        <st Contlex="N_">sõprus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ялгаксчи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõrm</l>
+      <stg>
+        <st Contlex="N_">sõrm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сур</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõrmeots</l>
+      <stg>
+        <st Contlex="N_">sõrmeots</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сурбря</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõrmus</l>
+      <stg>
+        <st Contlex="N_">sõrmus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">суркс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõsar</l>
+      <stg>
+        <st Contlex="N_">sõsar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сазор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sõstar</l>
+      <stg>
+        <st Contlex="N_">sõstar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">шукшторов</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">söögipoolis</l>
+      <stg>
+        <st Contlex="N_">söögipoolis</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ярсамопель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">söök</l>
+      <stg>
+        <st Contlex="N_">söök</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ярсамопель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">süda</l>
+      <stg>
+        <st Contlex="N_">süda</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">седей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">südaöö</l>
+      <stg>
+        <st Contlex="N_">südaöö</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пелеве</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sügis</l>
+      <stg>
+        <st Contlex="N_">sügis</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сёксь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sülg</l>
+      <stg>
+        <st Contlex="N_">sülg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сельге</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">süli</l>
+      <stg>
+        <st Contlex="N_">süli</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">эле</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sünniaasta</l>
+      <stg>
+        <st Contlex="N_">sünniaasta</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чачома ие</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">süü</l>
+      <stg>
+        <st Contlex="N_">süü</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чумо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">taevas</l>
+      <stg>
+        <st Contlex="N_">taevas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">менель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tagapõll</l>
+      <stg>
+        <st Contlex="N_">tagapõll</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пулай</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tainas</l>
+      <stg>
+        <st Contlex="N_">tainas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чапакс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">talv</l>
+      <stg>
+        <st Contlex="N_">talv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">теле</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tamm</l>
+      <stg>
+        <st Contlex="N_">tamm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тумо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tammetõru</l>
+      <stg>
+        <st Contlex="N_">tammetõru</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сэря</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tants</l>
+      <stg>
+        <st Contlex="N_">tants</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">киштема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tanu</l>
+      <stg>
+        <st Contlex="N_">tanu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">панго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tara</l>
+      <stg>
+        <st Contlex="N_">tara</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пирявкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tarkpea</l>
+      <stg>
+        <st Contlex="N_">tarkpea</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">превейка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tarkus</l>
+      <stg>
+        <st Contlex="N_">tarkus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">превейчи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tarkusehammas</l>
+      <stg>
+        <st Contlex="N_">tarkusehammas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цилем пей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tasku</l>
+      <stg>
+        <st Contlex="N_">tasku</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">зепе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">taskurätik</l>
+      <stg>
+        <st Contlex="N_">taskurätik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пацине</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tatt</l>
+      <stg>
+        <st Contlex="N_">tatt</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">нолго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tava</l>
+      <stg>
+        <st Contlex="N_">tava</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лув</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tava</l>
+      <stg>
+        <st Contlex="N_">tava</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кой</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">teaduskond</l>
+      <stg>
+        <st Contlex="N_">teaduskond</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">факультет</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tee</l>
+      <stg>
+        <st Contlex="N_">tee</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ки</t>
+        <t pos="N">ян</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">teerada</l>
+      <stg>
+        <st Contlex="N_">teerada</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ян</t>
+        <t pos="N">ки</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">teisipäev</l>
+      <stg>
+        <st Contlex="N_">teisipäev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">овторник</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tervis</l>
+      <stg>
+        <st Contlex="N_">tervis</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">шумбрачи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tiib</l>
+      <stg>
+        <st Contlex="N_">tiib</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сёлмо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tikand</l>
+      <stg>
+        <st Contlex="N_">tikand</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">викшневкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tikand</l>
+      <stg>
+        <st Contlex="N_">tikand</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">арт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tipp</l>
+      <stg>
+        <st Contlex="N_">tipp</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тёкш</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">toomingas</l>
+      <stg>
+        <st Contlex="N_">toomingas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лёмзёр</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tops</l>
+      <stg>
+        <st Contlex="N_">tops</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чакш</t>
+        <t pos="N">чакшке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">torm</l>
+      <stg>
+        <st Contlex="N_">torm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">давол</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tsaar</l>
+      <stg>
+        <st Contlex="N_">tsaar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кезэрь</t>
+        <t pos="N">инязор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tugi</l>
+      <stg>
+        <st Contlex="N_">tugi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">неже</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tuhk</l>
+      <stg>
+        <st Contlex="N_">tuhk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кулов</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tuju</l>
+      <stg>
+        <st Contlex="N_">tuju</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мель</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tuli</l>
+      <stg>
+        <st Contlex="N_">tuli</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тол</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tulvavesi</l>
+      <stg>
+        <st Contlex="N_">tulvavesi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чадыведь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tund</l>
+      <stg>
+        <st Contlex="N_">tund</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">час</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tundmus</l>
+      <stg>
+        <st Contlex="N_">tundmus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ёжо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tunne</l>
+      <stg>
+        <st Contlex="N_">tunne</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ёжо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">turg</l>
+      <stg>
+        <st Contlex="N_">turg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">базар</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tuul</l>
+      <stg>
+        <st Contlex="N_">tuul</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">варма</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tuum</l>
+      <stg>
+        <st Contlex="N_">tuum</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">зэме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tuunika</l>
+      <stg>
+        <st Contlex="N_">tuunika</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">панар</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tädi</l>
+      <stg>
+        <st Contlex="N_">tädi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пата</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">täht</l>
+      <stg>
+        <st Contlex="N_">täht</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">теште</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tähtpäev</l>
+      <stg>
+        <st Contlex="N_">tähtpäev</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">покш чи</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tänav</l>
+      <stg>
+        <st Contlex="N_">tänav</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ало пе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tänav</l>
+      <stg>
+        <st Contlex="N_">tänav</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">куро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tänav</l>
+      <stg>
+        <st Contlex="N_">tänav</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">куро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tänav</l>
+      <stg>
+        <st Contlex="N_">tänav</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ульця</t>
+        <t pos="N">куро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tõug</l>
+      <stg>
+        <st Contlex="N_">tõug</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пона</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tõuk</l>
+      <stg>
+        <st Contlex="N_">tõuk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сукс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tööline</l>
+      <stg>
+        <st Contlex="N_">tööline</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">важо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tüdimus</l>
+      <stg>
+        <st Contlex="N_">tüdimus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">мельмолема</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tüdruk</l>
+      <stg>
+        <st Contlex="N_">tüdruk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тейтерька</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tükk</l>
+      <stg>
+        <st Contlex="N_">tükk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пал</t>
+        <t pos="N">пакш</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tütar</l>
+      <stg>
+        <st Contlex="N_">tütar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тейтерь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tüvi (taimedel)</l>
+      <stg>
+        <st Contlex="N_">tüvi (taimedel)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">недькс</t>
+        <t pos="N">недь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tšuvašš</l>
+      <stg>
+        <st Contlex="N_">tšuvašš</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ветьке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">udar</l>
+      <stg>
+        <st Contlex="N_">udar</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">одар</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">udu</l>
+      <stg>
+        <st Contlex="N_">udu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сув</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">uhmer</l>
+      <stg>
+        <st Contlex="N_">uhmer</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">човар</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">uks</l>
+      <stg>
+        <st Contlex="N_">uks</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кенкш</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ungarlane</l>
+      <stg>
+        <st Contlex="N_">ungarlane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">венгра</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">uni</l>
+      <stg>
+        <st Contlex="N_">uni</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">он</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">usk</l>
+      <stg>
+        <st Contlex="N_">usk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кемема</t>
+        <t pos="N">ознома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">uss</l>
+      <stg>
+        <st Contlex="N_">uss</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">гуй</t>
+        <t pos="N">куй</t>
+        <t pos="N">ёзнэ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">uss</l>
+      <stg>
+        <st Contlex="N_">uss</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сукс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaagen</l>
+      <stg>
+        <st Contlex="N_">vaagen</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вакан</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaagen</l>
+      <stg>
+        <st Contlex="N_">vaagen</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чакш</t>
+        <t pos="N">чакшке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaarikas</l>
+      <stg>
+        <st Contlex="N_">vaarikas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">инзей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaba aeg</l>
+      <stg>
+        <st Contlex="N_">vaba aeg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">юткошка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaenlane</l>
+      <stg>
+        <st Contlex="N_">vaenlane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">душман</t>
+        <t pos="N">ят</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vahe</l>
+      <stg>
+        <st Contlex="N_">vahe</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ютко</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaheaeg</l>
+      <stg>
+        <st Contlex="N_">vaheaeg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">юткошка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaher</l>
+      <stg>
+        <st Contlex="N_">vaher</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">укштор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaim</l>
+      <stg>
+        <st Contlex="N_">vaim</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ойме</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vaks (pikkusmõõt)</l>
+      <stg>
+        <st Contlex="N_">vaks (pikkusmõõt)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вакс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">valgus</l>
+      <stg>
+        <st Contlex="N_">valgus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">валдо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">valu</l>
+      <stg>
+        <st Contlex="N_">valu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ризкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanaema</l>
+      <stg>
+        <st Contlex="N_">vanaema</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">баба</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanaema (ema poolt)</l>
+      <stg>
+        <st Contlex="N_">vanaema (ema poolt)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">васолбаба</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanaisa</l>
+      <stg>
+        <st Contlex="N_">vanaisa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">бодя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanamees</l>
+      <stg>
+        <st Contlex="N_">vanamees</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">атя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanasõna</l>
+      <stg>
+        <st Contlex="N_">vanasõna</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">валмеревкс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanavanemad</l>
+      <stg>
+        <st Contlex="N_">vanavanemad</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">покштят-бабат</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanem vend</l>
+      <stg>
+        <st Contlex="N_">vanem vend</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">леля</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanem õde</l>
+      <stg>
+        <st Contlex="N_">vanem õde</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пата</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vanker</l>
+      <stg>
+        <st Contlex="N_">vanker</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">крандаз</t>
+        <t pos="N">карандаз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">varandus</l>
+      <stg>
+        <st Contlex="N_">varandus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ули-паро</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">varblane</l>
+      <stg>
+        <st Contlex="N_">varblane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">озяз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vares</l>
+      <stg>
+        <st Contlex="N_">vares</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">варака</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vari</l>
+      <stg>
+        <st Contlex="N_">vari</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сулей</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">varrukas</l>
+      <stg>
+        <st Contlex="N_">varrukas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ожа</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vars</l>
+      <stg>
+        <st Contlex="N_">vars</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">недь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">varss</l>
+      <stg>
+        <st Contlex="N_">varss</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вашо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vasikas</l>
+      <stg>
+        <st Contlex="N_">vasikas</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ваз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vastuväide</l>
+      <stg>
+        <st Contlex="N_">vastuväide</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">каршо вал</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vend ja õde</l>
+      <stg>
+        <st Contlex="N_">vend ja õde</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лелят-сазорт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">venelane</l>
+      <stg>
+        <st Contlex="N_">venelane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">руз</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">venelanna</l>
+      <stg>
+        <st Contlex="N_">venelanna</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">рузава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">venna naine</l>
+      <stg>
+        <st Contlex="N_">venna naine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">уряж</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">veri</l>
+      <stg>
+        <st Contlex="N_">veri</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">верь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">verst</l>
+      <stg>
+        <st Contlex="N_">verst</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вайгельбе (-пе)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vesi</l>
+      <stg>
+        <st Contlex="N_">vesi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ведь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vesiroos</l>
+      <stg>
+        <st Contlex="N_">vesiroos</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">горнипов</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">veski</l>
+      <stg>
+        <st Contlex="N_">veski</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ведьгев (-кев)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">viha</l>
+      <stg>
+        <st Contlex="N_">viha</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кеж</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vihm</l>
+      <stg>
+        <st Contlex="N_">vihm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пиземе</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">viisud ja jalarätid</l>
+      <stg>
+        <st Contlex="N_">viisud ja jalarätid</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">карть-пракстат</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">viljakuse jumalanna</l>
+      <stg>
+        <st Contlex="N_">viljakuse jumalanna</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">норовава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vill</l>
+      <stg>
+        <st Contlex="N_">vill</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">пона</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">villane lõng</l>
+      <stg>
+        <st Contlex="N_">villane lõng</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">понасуре</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vitriin</l>
+      <stg>
+        <st Contlex="N_">vitriin</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">вальма</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vits</l>
+      <stg>
+        <st Contlex="N_">vits</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">илёв</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">voodikate</l>
+      <stg>
+        <st Contlex="N_">voodikate</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ацамот</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">voolav vesi</l>
+      <stg>
+        <st Contlex="N_">voolav vesi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чуди ведь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">väike poiss</l>
+      <stg>
+        <st Contlex="N_">väike poiss</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цёрыне</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">välimus</l>
+      <stg>
+        <st Contlex="N_">välimus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чачо</t>
+        <t pos="N">шачо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">välimus</l>
+      <stg>
+        <st Contlex="N_">välimus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тюс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">välismaa</l>
+      <stg>
+        <st Contlex="N_">välismaa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">омбо мастор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">välisruum</l>
+      <stg>
+        <st Contlex="N_">välisruum</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ушо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">väljak</l>
+      <stg>
+        <st Contlex="N_">väljak</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кужо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">välk</l>
+      <stg>
+        <st Contlex="N_">välk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ёндол (-тол)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">värv</l>
+      <stg>
+        <st Contlex="N_">värv</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">тюс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">värvimine</l>
+      <stg>
+        <st Contlex="N_">värvimine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">артома</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">või</l>
+      <stg>
+        <st Contlex="N_">või</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ой</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">võru</l>
+      <stg>
+        <st Contlex="N_">võru</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">варя</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">võõrasema</l>
+      <stg>
+        <st Contlex="N_">võõrasema</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">одава</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">võõrastemaja</l>
+      <stg>
+        <st Contlex="N_">võõrastemaja</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">отэль (инжень кудо)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vöö</l>
+      <stg>
+        <st Contlex="N_">vöö</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">каркс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">äi</l>
+      <stg>
+        <st Contlex="N_">äi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">атявт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ämm</l>
+      <stg>
+        <st Contlex="N_">ämm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ававт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õde (vanem)</l>
+      <stg>
+        <st Contlex="N_">õde (vanem)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">сазор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õde noorema vennaga</l>
+      <stg>
+        <st Contlex="N_">õde noorema vennaga</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">патат-ялакст</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õhk</l>
+      <stg>
+        <st Contlex="N_">õhk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кошт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õhk</l>
+      <stg>
+        <st Contlex="N_">õhk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ушо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õhtu</l>
+      <stg>
+        <st Contlex="N_">õhtu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чокшне</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õlad</l>
+      <stg>
+        <st Contlex="N_">õlad</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лавтовт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õled</l>
+      <stg>
+        <st Contlex="N_">õled</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">олгт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õlg</l>
+      <stg>
+        <st Contlex="N_">õlg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">лавтов</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õlg</l>
+      <stg>
+        <st Contlex="N_">õlg</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">олго</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õmblemine</l>
+      <stg>
+        <st Contlex="N_">õmblemine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">стамо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õnnetus</l>
+      <stg>
+        <st Contlex="N_">õnnetus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">зыян</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õnnetus</l>
+      <stg>
+        <st Contlex="N_">õnnetus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кажо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õppetool</l>
+      <stg>
+        <st Contlex="N_">õppetool</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">кафэдра</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">õun</l>
+      <stg>
+        <st Contlex="N_">õun</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">умарь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">öö</l>
+      <stg>
+        <st Contlex="N_">öö</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">ве</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ööbik</l>
+      <stg>
+        <st Contlex="N_">ööbik</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">цёков</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ülaosa</l>
+      <stg>
+        <st Contlex="N_">ülaosa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">верькс</t>
+        <t pos="N">вере (пе)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ülemine</l>
+      <stg>
+        <st Contlex="N_">ülemine</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">верькс</t>
+        <t pos="N">вере (пе)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ülemine ots</l>
+      <stg>
+        <st Contlex="N_">ülemine ots</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">верькс</t>
+        <t pos="N">вере (пе)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ülemus</l>
+      <stg>
+        <st Contlex="N_">ülemus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">прявт</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ülikool</l>
+      <stg>
+        <st Contlex="N_">ülikool</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">университет</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">üliõpilane</l>
+      <stg>
+        <st Contlex="N_">üliõpilane</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">студент</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ümbrus</l>
+      <stg>
+        <st Contlex="N_">ümbrus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">перть-пелькс</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ümbrus</l>
+      <stg>
+        <st Contlex="N_">ümbrus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">чире</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">куй</l>
+      <stg>
+        <st Contlex="N_">куй</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N">гуй</t>
+        <t pos="N">куй</t>
+        <t pos="N">ёзнэ</t>
+      </tg>
+    </mg>
+  </e>
+</r>

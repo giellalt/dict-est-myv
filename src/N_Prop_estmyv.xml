@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="est">
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Ameerika</l>
+      <stg>
+        <st Contlex="PROP_">Ameerika</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Америка</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Eestimaa</l>
+      <stg>
+        <st Contlex="PROP_">Eestimaa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Эстония</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Euroopa</l>
+      <stg>
+        <st Contlex="PROP_">Euroopa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Эвропа</t>
+        <t pos="N" type="Prop">Европа</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Inglismaa</l>
+      <stg>
+        <st Contlex="PROP_">Inglismaa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Англия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Itaalia</l>
+      <stg>
+        <st Contlex="PROP_">Itaalia</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Италия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Karjala</l>
+      <stg>
+        <st Contlex="PROP_">Karjala</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Карелия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Leedu</l>
+      <stg>
+        <st Contlex="PROP_">Leedu</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">PropЛитва</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Läti</l>
+      <stg>
+        <st Contlex="PROP_">Läti</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Латвия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Moskva</l>
+      <stg>
+        <st Contlex="PROP_">Moskva</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Москов</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Prantsusmaa</l>
+      <stg>
+        <st Contlex="PROP_">Prantsusmaa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Франция</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Rootsi</l>
+      <stg>
+        <st Contlex="PROP_">Rootsi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Шведция</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Saksamaa</l>
+      <stg>
+        <st Contlex="PROP_">Saksamaa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Германия (Ермания)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Saran</l>
+      <stg>
+        <st Contlex="PROP_">Saran</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Саран(ош)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Saransk</l>
+      <stg>
+        <st Contlex="PROP_">Saransk</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Саран(ош)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Soome</l>
+      <stg>
+        <st Contlex="PROP_">Soome</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Финляндия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Ungari</l>
+      <stg>
+        <st Contlex="PROP_">Ungari</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Венгрия</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Venemaa</l>
+      <stg>
+        <st Contlex="PROP_">Venemaa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Рузонь мастор</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Volga</l>
+      <stg>
+        <st Contlex="PROP_">Volga</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Рав</t>
+      </tg>
+    </mg>
+  </e>
+</r>

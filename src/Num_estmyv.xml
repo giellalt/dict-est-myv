@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="est">
+  <e>
+    <lg>
+      <l pos="Num">esimene</l>
+      <stg>
+        <st Contlex="NUM_">esimene</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">васенце</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kaheksa</l>
+      <stg>
+        <st Contlex="NUM_">kaheksa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">кавксо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kaks</l>
+      <stg>
+        <st Contlex="NUM_">kaks</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">кавто</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kakskümmend</l>
+      <stg>
+        <st Contlex="NUM_">kakskümmend</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">комсь</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kolm</l>
+      <stg>
+        <st Contlex="NUM_">kolm</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">колмо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kolmkümmend</l>
+      <stg>
+        <st Contlex="NUM_">kolmkümmend</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">колоньгемень</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kuus</l>
+      <stg>
+        <st Contlex="NUM_">kuus</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">кото</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">kümme</l>
+      <stg>
+        <st Contlex="NUM_">kümme</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">кемень</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">neli</l>
+      <stg>
+        <st Contlex="NUM_">neli</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">ниле</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">sada</l>
+      <stg>
+        <st Contlex="NUM_">sada</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">сядо</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">seitse</l>
+      <stg>
+        <st Contlex="NUM_">seitse</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">сисем</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">tuhat</l>
+      <stg>
+        <st Contlex="NUM_">tuhat</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">тёжа</t>
+        <t pos="Num">тёжень</t>
+        <t pos="Num">тышча</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">viis</l>
+      <stg>
+        <st Contlex="NUM_">viis</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">вете</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">üheksa</l>
+      <stg>
+        <st Contlex="NUM_">üheksa</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">вейксэ</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">üks</l>
+      <stg>
+        <st Contlex="NUM_">üks</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">вейке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">üksi (mina)</l>
+      <stg>
+        <st Contlex="NUM_">üksi (mina)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Num">ськамо(-м</t>
+        <t pos="Num">омастав)</t>
+      </tg>
+    </mg>
+  </e>
+</r>

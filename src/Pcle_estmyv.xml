@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="est">
+  <e>
+    <lg>
+      <l pos="Adv">kõige</l>
+      <stg>
+        <st Contlex="PCLE_">kõige</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">сех(-те)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">siiski</l>
+      <stg>
+        <st Contlex="PCLE_">siiski</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">ялатеке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">-gi</l>
+      <stg>
+        <st Contlex="PCLE_">-gi</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">-гак</t>
+        <t pos="Pcle">-як</t>
+        <t pos="Pcle">-как</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">-ki</l>
+      <stg>
+        <st Contlex="PCLE_">-ki</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">-гак</t>
+        <t pos="Pcle">-як</t>
+        <t pos="Pcle">-как</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">ei</l>
+      <stg>
+        <st Contlex="PCLE_">ei</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">а</t>
+        <t pos="Pcle">аволь</t>
+        <t pos="V">арась</t>
+        <t pos="V">эзь</t>
+      </tg>
+      <xg>
+        <x>ma ei lähe</x>
+        <xt xml:lang="myv">а молян</xt>
+      </xg>
+      <xg>
+        <x>ei ole</x>
+        <xt xml:lang="myv">арась</xt>
+      </xg>
+      <xg>
+        <x>ma ei käinud</x>
+        <xt xml:lang="myv">эзинь яка</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">ikka</l>
+      <stg>
+        <st Contlex="PCLE_">ikka</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">ялатеке</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">kas (tõesti)</l>
+      <stg>
+        <st Contlex="PCLE_">kas (tõesti)</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">каня</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">mitte</l>
+      <stg>
+        <st Contlex="PCLE_">mitte</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">а</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pcle">võib olla</l>
+      <stg>
+        <st Contlex="PCLE_">võib (-vad) olla</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">улема(-т)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">olevat</l>
+      <stg>
+        <st Contlex="PCLE_">olevat</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pcle">келя</t>
+      </tg>
+    </mg>
+  </e>
+</r>
