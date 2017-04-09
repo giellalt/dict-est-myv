@@ -2,13 +2,13 @@
 <r id="estmyv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="est">
   <e>
     <lg>
-      <l pos="N">(piima) koor</l>
+      <l pos="N">koor</l>
       <stg>
         <st Contlex="N_">(piima) koor</st>
       </stg>
     </lg>
     <mg>
-      <defNative/>
+      <defNative>piima</defNative>
       <tg xml:lang="myv">
         <t pos="N">велькс</t>
       </tg>
@@ -1854,8 +1854,8 @@
     <mg>
       <defNative/>
       <tg xml:lang="myv">
-        <t pos="N">катка</t>
         <t pos="N">псака</t>
+        <t pos="N">катка</t>
       </tg>
     </mg>
   </e>
@@ -2024,20 +2024,6 @@
       <defNative/>
       <tg xml:lang="myv">
         <t pos="N">тундо</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">kevad-</l>
-      <stg>
-        <st Contlex="N_">kevad-</st>
-      </stg>
-    </lg>
-    <mg>
-      <defNative/>
-      <tg xml:lang="myv">
-        <t pos="N">инечи</t>
       </tg>
     </mg>
   </e>
@@ -2247,8 +2233,8 @@
     <mg>
       <defNative/>
       <tg xml:lang="myv">
-        <t pos="N">пине</t>
         <t pos="N">киска</t>
+        <t pos="N">пине</t>
       </tg>
     </mg>
   </e>
@@ -3364,7 +3350,6 @@
       <defNative/>
       <tg xml:lang="myv">
         <t pos="N">нармунь</t>
-        <t pos="N">-о-</t>
       </tg>
     </mg>
   </e>
@@ -5459,13 +5444,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">poeg (looma-</l>
+      <l pos="N">poeg</l>
       <stg>
         <st Contlex="N_">poeg (looma-</st>
       </stg>
     </lg>
     <mg>
-      <defNative/>
+      <defNative>looma</defNative>
       <tg xml:lang="myv">
         <t pos="N">левкс</t>
       </tg>
