@@ -9,7 +9,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Америка</t>
       </tg>
     </mg>
@@ -23,7 +23,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Эстония</t>
       </tg>
     </mg>
@@ -37,7 +37,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Эвропа</t>
         <t pos="N" type="Prop">Европа</t>
       </tg>
@@ -52,7 +52,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Англия</t>
       </tg>
     </mg>
@@ -66,7 +66,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Италия</t>
       </tg>
     </mg>
@@ -80,7 +80,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Карелия</t>
       </tg>
     </mg>
@@ -94,7 +94,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">PropЛитва</t>
       </tg>
     </mg>
@@ -108,7 +108,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Латвия</t>
       </tg>
     </mg>
@@ -122,7 +122,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Москов</t>
       </tg>
     </mg>
@@ -136,7 +136,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Франция</t>
       </tg>
     </mg>
@@ -150,7 +150,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Шведция</t>
       </tg>
     </mg>
@@ -164,7 +164,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Германия (Ермания)</t>
       </tg>
     </mg>
@@ -178,7 +178,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Саран(ош)</t>
       </tg>
     </mg>
@@ -192,7 +192,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Саран(ош)</t>
       </tg>
     </mg>
@@ -206,7 +206,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Финляндия</t>
       </tg>
     </mg>
@@ -220,7 +220,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Венгрия</t>
       </tg>
     </mg>
@@ -234,7 +234,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Рузонь мастор</t>
       </tg>
     </mg>
@@ -248,7 +248,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="N" type="Prop">Рав</t>
       </tg>
     </mg>

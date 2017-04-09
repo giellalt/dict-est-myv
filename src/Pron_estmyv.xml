@@ -9,7 +9,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кияк</t>
       </tg>
     </mg>
@@ -23,7 +23,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кодаяк</t>
       </tg>
     </mg>
@@ -37,7 +37,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">мезеяк</t>
       </tg>
     </mg>
@@ -51,7 +51,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">эрьва мезь/е</t>
         <t pos="Pron">-ть</t>
       </tg>
@@ -66,7 +66,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кияк</t>
       </tg>
     </mg>
@@ -80,7 +80,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кинь</t>
       </tg>
     </mg>
@@ -94,7 +94,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кие</t>
       </tg>
     </mg>
@@ -108,7 +108,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кона</t>
       </tg>
     </mg>
@@ -122,7 +122,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">козо</t>
       </tg>
     </mg>
@@ -136,7 +136,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">ков</t>
       </tg>
     </mg>
@@ -150,7 +150,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">козояк</t>
       </tg>
     </mg>
@@ -164,7 +164,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кодаяк</t>
       </tg>
     </mg>
@@ -178,7 +178,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">минь</t>
       </tg>
     </mg>
@@ -192,7 +192,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">минсь</t>
       </tg>
     </mg>
@@ -206,7 +206,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">минек</t>
       </tg>
     </mg>
@@ -220,7 +220,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кой-мезе</t>
       </tg>
     </mg>
@@ -234,7 +234,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">мезеяк</t>
       </tg>
     </mg>
@@ -248,7 +248,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">козо</t>
       </tg>
     </mg>
@@ -262,7 +262,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кона</t>
       </tg>
     </mg>
@@ -276,7 +276,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">мон</t>
       </tg>
     </mg>
@@ -290,7 +290,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">монсь</t>
       </tg>
     </mg>
@@ -304,7 +304,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">монь</t>
       </tg>
     </mg>
@@ -318,7 +318,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кона</t>
       </tg>
     </mg>
@@ -332,7 +332,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">мезе</t>
       </tg>
     </mg>
@@ -346,7 +346,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">сетне</t>
       </tg>
     </mg>
@@ -360,7 +360,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">ковгак</t>
       </tg>
     </mg>
@@ -374,7 +374,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">кой-кона</t>
       </tg>
     </mg>
@@ -388,7 +388,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">конаськак</t>
       </tg>
     </mg>
@@ -402,7 +402,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">не</t>
         <t pos="Pron">нетне</t>
       </tg>
@@ -417,7 +417,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">сынь</t>
       </tg>
     </mg>
@@ -431,7 +431,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">сынсь</t>
       </tg>
     </mg>
@@ -445,7 +445,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">сетне</t>
       </tg>
     </mg>
@@ -459,7 +459,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">те</t>
       </tg>
     </mg>
@@ -473,7 +473,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">тон</t>
       </tg>
     </mg>
@@ -487,7 +487,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">тонсь</t>
       </tg>
     </mg>
@@ -501,7 +501,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">тынь</t>
       </tg>
     </mg>
@@ -515,7 +515,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">тыньсь</t>
       </tg>
     </mg>
@@ -529,7 +529,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">сон</t>
       </tg>
     </mg>
@@ -543,7 +543,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">сонсь</t>
       </tg>
     </mg>
@@ -557,7 +557,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="Pron">се</t>
       </tg>
     </mg>

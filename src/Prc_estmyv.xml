@@ -2,44 +2,44 @@
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="est">
   <e>
     <lg>
-      <l pos="PRC">abiellunud</l>
+      <l pos="Prc">abiellunud</l>
       <stg>
         <st Contlex="PRC_">abiellunud</st>
       </stg>
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
-        <t pos="PRC">урьвакстозь</t>
+      <tg xml:lang="myv">
+        <t pos="Prc">урьвакстозь</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="PRC">avatud</l>
+      <l pos="Prc">avatud</l>
       <stg>
         <st Contlex="PRC_">avatud</st>
       </stg>
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
-        <t pos="PRC">панжозь</t>
+      <tg xml:lang="myv">
+        <t pos="Prc">панжозь</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="PRC">tuntud</l>
+      <l pos="Prc">tuntud</l>
       <stg>
         <st Contlex="PRC_">tuntud</st>
       </stg>
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
-        <t pos="PRC">содазь</t>
-        <t pos="PRC">содавикс</t>
+      <tg xml:lang="myv">
+        <t pos="Prc">содазь</t>
+        <t pos="Prc">содавикс</t>
       </tg>
     </mg>
   </e>

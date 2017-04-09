@@ -9,7 +9,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тердемс</t>
       </tg>
     </mg>
@@ -23,7 +23,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">урьвакстомс</t>
       </tg>
     </mg>
@@ -37,7 +37,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лездамс</t>
       </tg>
     </mg>
@@ -51,7 +51,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">панемс</t>
       </tg>
     </mg>
@@ -65,7 +65,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">валгомс</t>
       </tg>
     </mg>
@@ -79,7 +79,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ушодомс</t>
       </tg>
     </mg>
@@ -93,7 +93,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">максомс</t>
       </tg>
     </mg>
@@ -107,7 +107,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вечкемс</t>
       </tg>
     </mg>
@@ -121,7 +121,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чарькодемс</t>
       </tg>
     </mg>
@@ -135,7 +135,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">арсемс</t>
       </tg>
     </mg>
@@ -149,7 +149,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">аравтомс</t>
       </tg>
     </mg>
@@ -163,7 +163,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">арамс</t>
       </tg>
     </mg>
@@ -177,7 +177,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">аштемс</t>
       </tg>
     </mg>
@@ -191,7 +191,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">панжомс</t>
       </tg>
     </mg>
@@ -205,7 +205,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кравтомс</t>
         <t pos="V">панемс</t>
       </tg>
@@ -220,7 +220,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тандадомс</t>
       </tg>
     </mg>
@@ -234,7 +234,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ильведемс</t>
         <t pos="V">манявомс</t>
       </tg>
@@ -249,7 +249,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">эрямс</t>
       </tg>
     </mg>
@@ -263,7 +263,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кутморямс</t>
       </tg>
     </mg>
@@ -277,7 +277,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каямс конёв</t>
       </tg>
     </mg>
@@ -291,7 +291,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">нарамс</t>
       </tg>
     </mg>
@@ -305,7 +305,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ормалгадомс</t>
       </tg>
     </mg>
@@ -319,7 +319,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кармамс</t>
       </tg>
     </mg>
@@ -333,7 +333,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пурнамс</t>
       </tg>
     </mg>
@@ -347,7 +347,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сускомс</t>
       </tg>
     </mg>
@@ -361,7 +361,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тонадомс</t>
       </tg>
     </mg>
@@ -375,7 +375,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">онгомс</t>
       </tg>
     </mg>
@@ -389,7 +389,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">викшнемс</t>
       </tg>
     </mg>
@@ -403,7 +403,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ёртомс</t>
       </tg>
     </mg>
@@ -417,7 +417,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">гайгемс</t>
       </tg>
     </mg>
@@ -431,7 +431,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лексемс</t>
       </tg>
     </mg>
@@ -445,7 +445,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кирдемс</t>
       </tg>
     </mg>
@@ -459,7 +459,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ванстомс</t>
       </tg>
     </mg>
@@ -473,7 +473,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ваномс мель</t>
       </tg>
     </mg>
@@ -487,7 +487,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ваномс мель</t>
       </tg>
     </mg>
@@ -501,7 +501,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">виздемс</t>
       </tg>
     </mg>
@@ -515,7 +515,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">маштомс</t>
       </tg>
     </mg>
@@ -529,7 +529,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">озамс</t>
       </tg>
     </mg>
@@ -543,7 +543,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">путомс эмежть</t>
       </tg>
       <xg>
@@ -561,7 +561,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лайшемс</t>
       </tg>
     </mg>
@@ -575,7 +575,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">явомс</t>
       </tg>
     </mg>
@@ -589,7 +589,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">яжамс</t>
       </tg>
     </mg>
@@ -603,7 +603,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">карсемс</t>
       </tg>
     </mg>
@@ -617,7 +617,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чиемс</t>
       </tg>
     </mg>
@@ -631,7 +631,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">симемс</t>
       </tg>
     </mg>
@@ -645,7 +645,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ёвтнемс</t>
       </tg>
     </mg>
@@ -659,7 +659,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сасамс</t>
       </tg>
     </mg>
@@ -673,7 +673,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кадомс</t>
       </tg>
     </mg>
@@ -687,7 +687,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кенеремс</t>
       </tg>
     </mg>
@@ -701,7 +701,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">онкстамс</t>
       </tg>
     </mg>
@@ -715,7 +715,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чувомс</t>
       </tg>
     </mg>
@@ -729,7 +729,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кавтолдомс</t>
       </tg>
     </mg>
@@ -743,7 +743,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">идемс</t>
       </tg>
     </mg>
@@ -757,7 +757,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кутморямс</t>
       </tg>
     </mg>
@@ -771,7 +771,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">судрямс</t>
       </tg>
     </mg>
@@ -785,7 +785,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кандомс</t>
       </tg>
     </mg>
@@ -799,7 +799,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ёмавтомс (ю-)</t>
       </tg>
     </mg>
@@ -813,7 +813,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">рангомс</t>
         <t pos="V">пижнемс</t>
       </tg>
@@ -828,7 +828,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пелемс</t>
       </tg>
     </mg>
@@ -842,7 +842,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">валомс</t>
         <t pos="V">валномс</t>
       </tg>
@@ -857,7 +857,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">касомс</t>
       </tg>
     </mg>
@@ -871,7 +871,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кастомс</t>
       </tg>
     </mg>
@@ -885,7 +885,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">трямс</t>
         <t pos="V">тирямс</t>
       </tg>
@@ -900,7 +900,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тапамс</t>
         <t pos="V">порксамс</t>
       </tg>
@@ -915,7 +915,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сеземс</t>
       </tg>
     </mg>
@@ -929,7 +929,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ацамс</t>
       </tg>
     </mg>
@@ -943,7 +943,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мазылгавтомс</t>
       </tg>
     </mg>
@@ -957,7 +957,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кардамс</t>
       </tg>
     </mg>
@@ -971,7 +971,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лакамс</t>
       </tg>
     </mg>
@@ -985,7 +985,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пиемс</t>
       </tg>
     </mg>
@@ -999,7 +999,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пидемс (ям)</t>
       </tg>
     </mg>
@@ -1013,7 +1013,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">нурямс</t>
       </tg>
     </mg>
@@ -1027,7 +1027,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">капшамс</t>
       </tg>
     </mg>
@@ -1041,7 +1041,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">шнамс</t>
       </tg>
     </mg>
@@ -1055,7 +1055,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каземс</t>
       </tg>
     </mg>
@@ -1069,7 +1069,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кундамс</t>
       </tg>
     </mg>
@@ -1083,7 +1083,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сёрмадомс</t>
       </tg>
     </mg>
@@ -1097,7 +1097,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пурнамс</t>
       </tg>
     </mg>
@@ -1111,7 +1111,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">таштамс</t>
       </tg>
     </mg>
@@ -1125,7 +1125,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пурнавомс</t>
       </tg>
     </mg>
@@ -1139,7 +1139,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пачкодемс</t>
       </tg>
     </mg>
@@ -1153,7 +1153,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">арамс</t>
       </tg>
     </mg>
@@ -1167,7 +1167,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вастомс</t>
       </tg>
     </mg>
@@ -1181,7 +1181,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пуромомс</t>
       </tg>
     </mg>
@@ -1195,7 +1195,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">шлямс-нардамс</t>
       </tg>
     </mg>
@@ -1209,7 +1209,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кочкамс</t>
       </tg>
     </mg>
@@ -1223,7 +1223,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чиямс</t>
       </tg>
     </mg>
@@ -1237,7 +1237,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каванямс</t>
       </tg>
     </mg>
@@ -1251,7 +1251,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кодамс</t>
       </tg>
     </mg>
@@ -1265,7 +1265,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">коськемс</t>
       </tg>
     </mg>
@@ -1279,7 +1279,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">прамс</t>
       </tg>
     </mg>
@@ -1293,7 +1293,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каладомс</t>
       </tg>
     </mg>
@@ -1307,7 +1307,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сюконямс</t>
       </tg>
     </mg>
@@ -1321,7 +1321,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мадстемс</t>
       </tg>
     </mg>
@@ -1335,7 +1335,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кунсоломс</t>
       </tg>
     </mg>
@@ -1349,7 +1349,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">марямс</t>
       </tg>
     </mg>
@@ -1363,7 +1363,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">якамс</t>
       </tg>
     </mg>
@@ -1377,7 +1377,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ветямс пря</t>
       </tg>
     </mg>
@@ -1391,7 +1391,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кавтолдомс</t>
       </tg>
     </mg>
@@ -1405,7 +1405,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сэзнемс</t>
       </tg>
     </mg>
@@ -1419,7 +1419,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">жойнемс</t>
         <t pos="V">жольнемс</t>
       </tg>
@@ -1434,7 +1434,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">маштовомс</t>
       </tg>
     </mg>
@@ -1448,7 +1448,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">гайгемс</t>
       </tg>
     </mg>
@@ -1462,7 +1462,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">козомс</t>
       </tg>
     </mg>
@@ -1476,7 +1476,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кельмемс</t>
       </tg>
     </mg>
@@ -1490,7 +1490,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кельмемс</t>
       </tg>
     </mg>
@@ -1504,7 +1504,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">видемс</t>
       </tg>
     </mg>
@@ -1518,7 +1518,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пиемс</t>
       </tg>
     </mg>
@@ -1532,7 +1532,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кенеремс</t>
       </tg>
     </mg>
@@ -1546,7 +1546,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">панемс кши</t>
       </tg>
     </mg>
@@ -1560,7 +1560,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кевкстемс</t>
       </tg>
     </mg>
@@ -1574,7 +1574,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">уштомс</t>
       </tg>
     </mg>
@@ -1588,7 +1588,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каладомс</t>
       </tg>
     </mg>
@@ -1602,7 +1602,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">явомс</t>
       </tg>
     </mg>
@@ -1616,7 +1616,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">туемс</t>
       </tg>
     </mg>
@@ -1630,7 +1630,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">юксемс</t>
       </tg>
     </mg>
@@ -1644,7 +1644,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">келейгадомс</t>
       </tg>
     </mg>
@@ -1658,7 +1658,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лоткамс</t>
       </tg>
     </mg>
@@ -1672,7 +1672,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ноламс</t>
       </tg>
     </mg>
@@ -1686,7 +1686,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">калавтомс</t>
       </tg>
     </mg>
@@ -1700,7 +1700,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пандомс</t>
       </tg>
     </mg>
@@ -1714,7 +1714,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">морамс</t>
       </tg>
     </mg>
@@ -1728,7 +1728,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">морсекшнемс</t>
       </tg>
     </mg>
@@ -1742,7 +1742,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пшкадемс</t>
       </tg>
     </mg>
@@ -1756,7 +1756,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">муемс</t>
       </tg>
     </mg>
@@ -1770,7 +1770,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ливтямс</t>
       </tg>
     </mg>
@@ -1784,7 +1784,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">бажамс</t>
       </tg>
     </mg>
@@ -1798,7 +1798,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">алтамс</t>
       </tg>
     </mg>
@@ -1812,7 +1812,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ловномс</t>
       </tg>
     </mg>
@@ -1826,7 +1826,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ловомс</t>
       </tg>
     </mg>
@@ -1840,7 +1840,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ванномс</t>
       </tg>
     </mg>
@@ -1854,7 +1854,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">яжамс</t>
       </tg>
     </mg>
@@ -1868,7 +1868,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лазомс</t>
       </tg>
     </mg>
@@ -1882,7 +1882,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">керямс</t>
       </tg>
     </mg>
@@ -1896,7 +1896,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">прядомс</t>
       </tg>
     </mg>
@@ -1910,7 +1910,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чавомс</t>
       </tg>
     </mg>
@@ -1924,7 +1924,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">томбамс</t>
       </tg>
     </mg>
@@ -1938,7 +1938,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">потявтомс</t>
       </tg>
       <xg>
@@ -1956,7 +1956,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">артомс</t>
       </tg>
     </mg>
@@ -1970,7 +1970,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">удомс</t>
       </tg>
     </mg>
@@ -1984,7 +1984,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мадстемс</t>
       </tg>
     </mg>
@@ -1998,7 +1998,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">валгомс</t>
       </tg>
     </mg>
@@ -2012,7 +2012,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">калмамс</t>
       </tg>
     </mg>
@@ -2026,7 +2026,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мельс туемс</t>
       </tg>
     </mg>
@@ -2040,7 +2040,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мельс ледемс</t>
       </tg>
     </mg>
@@ -2054,7 +2054,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лисемс мирденень</t>
       </tg>
     </mg>
@@ -2068,7 +2068,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">молемс</t>
       </tg>
     </mg>
@@ -2082,7 +2082,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">алыямс</t>
       </tg>
     </mg>
@@ -2096,7 +2096,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мелявтомс</t>
       </tg>
     </mg>
@@ -2110,7 +2110,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ризнэмс</t>
       </tg>
     </mg>
@@ -2124,7 +2124,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лиякстомомс</t>
       </tg>
     </mg>
@@ -2138,7 +2138,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">налксемс</t>
       </tg>
     </mg>
@@ -2152,7 +2152,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">начкомс</t>
       </tg>
     </mg>
@@ -2166,7 +2166,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">редямс</t>
       </tg>
     </mg>
@@ -2180,7 +2180,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">путомс чи</t>
       </tg>
     </mg>
@@ -2194,7 +2194,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вадемс (ойсэ)</t>
       </tg>
     </mg>
@@ -2208,7 +2208,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">маштомс</t>
       </tg>
     </mg>
@@ -2222,7 +2222,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">онкстамс</t>
       </tg>
     </mg>
@@ -2236,7 +2236,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ютамс (вакска)</t>
       </tg>
     </mg>
@@ -2250,7 +2250,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">миемс</t>
       </tg>
     </mg>
@@ -2264,7 +2264,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пейдемс</t>
       </tg>
     </mg>
@@ -2278,7 +2278,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ракамс</t>
       </tg>
     </mg>
@@ -2292,7 +2292,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сюдомс</t>
       </tg>
     </mg>
@@ -2306,7 +2306,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">нилемс</t>
       </tg>
     </mg>
@@ -2320,7 +2320,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ледемс</t>
       </tg>
     </mg>
@@ -2334,7 +2334,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">путомс лем</t>
       </tg>
     </mg>
@@ -2348,7 +2348,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лемдемс</t>
         <t pos="V">путомс лем</t>
       </tg>
@@ -2363,7 +2363,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ноламс</t>
       </tg>
     </mg>
@@ -2377,7 +2377,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">авардемс</t>
       </tg>
     </mg>
@@ -2391,7 +2391,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">никсемс</t>
       </tg>
     </mg>
@@ -2405,7 +2405,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">редямс</t>
       </tg>
     </mg>
@@ -2419,7 +2419,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">неемс</t>
       </tg>
     </mg>
@@ -2433,7 +2433,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">невтемс</t>
       </tg>
     </mg>
@@ -2447,7 +2447,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">поремс</t>
       </tg>
     </mg>
@@ -2461,7 +2461,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вешемс</t>
       </tg>
     </mg>
@@ -2475,7 +2475,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">улемс</t>
       </tg>
     </mg>
@@ -2489,7 +2489,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">аштемс</t>
       </tg>
     </mg>
@@ -2503,7 +2503,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">эрсемс</t>
       </tg>
     </mg>
@@ -2517,7 +2517,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">учомс</t>
       </tg>
     </mg>
@@ -2531,7 +2531,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">маштомс</t>
       </tg>
     </mg>
@@ -2545,7 +2545,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">рамамс</t>
       </tg>
     </mg>
@@ -2559,7 +2559,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вешнемс</t>
       </tg>
     </mg>
@@ -2573,7 +2573,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мендямс</t>
         <t pos="V">менчемс</t>
       </tg>
@@ -2588,7 +2588,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вешемс</t>
       </tg>
     </mg>
@@ -2602,7 +2602,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">энялдомс</t>
       </tg>
     </mg>
@@ -2616,7 +2616,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">озномс</t>
       </tg>
     </mg>
@@ -2630,7 +2630,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">аравтомс</t>
       </tg>
     </mg>
@@ -2644,7 +2644,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">путомс (вейс)</t>
       </tg>
     </mg>
@@ -2658,7 +2658,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">витемс</t>
       </tg>
     </mg>
@@ -2672,7 +2672,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">паролгадомс</t>
       </tg>
     </mg>
@@ -2686,7 +2686,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пезэмс пря</t>
       </tg>
     </mg>
@@ -2700,7 +2700,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чалгамс</t>
       </tg>
     </mg>
@@ -2714,7 +2714,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кардамс</t>
       </tg>
     </mg>
@@ -2728,7 +2728,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лоткамс</t>
       </tg>
     </mg>
@@ -2742,7 +2742,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кекшемс</t>
       </tg>
     </mg>
@@ -2756,7 +2756,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пелемс</t>
       </tg>
     </mg>
@@ -2770,7 +2770,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">шлямс</t>
       </tg>
     </mg>
@@ -2784,7 +2784,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">муськемс</t>
       </tg>
     </mg>
@@ -2798,7 +2798,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">манямс</t>
       </tg>
     </mg>
@@ -2812,7 +2812,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пирямс</t>
       </tg>
     </mg>
@@ -2826,7 +2826,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сатомс</t>
       </tg>
     </mg>
@@ -2840,7 +2840,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мадемс</t>
       </tg>
     </mg>
@@ -2854,7 +2854,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">варштамс</t>
       </tg>
     </mg>
@@ -2868,7 +2868,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">седямс</t>
       </tg>
     </mg>
@@ -2882,7 +2882,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">рестамс</t>
       </tg>
     </mg>
@@ -2896,7 +2896,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">варчамс</t>
       </tg>
     </mg>
@@ -2910,7 +2910,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">оймсемс</t>
       </tg>
     </mg>
@@ -2924,7 +2924,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лазномс (пенгть)</t>
       </tg>
     </mg>
@@ -2938,7 +2938,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">поремс</t>
       </tg>
     </mg>
@@ -2952,7 +2952,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">иредемс</t>
       </tg>
     </mg>
@@ -2966,7 +2966,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тапамс</t>
         <t pos="V">порксамс</t>
       </tg>
@@ -2981,7 +2981,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">порксамс</t>
       </tg>
     </mg>
@@ -2995,7 +2995,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">арась</t>
         <t pos="V">-ть</t>
       </tg>
@@ -3010,7 +3010,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пелемс</t>
       </tg>
     </mg>
@@ -3024,7 +3024,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">менемс</t>
       </tg>
     </mg>
@@ -3038,7 +3038,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">идемс</t>
       </tg>
     </mg>
@@ -3052,7 +3052,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">оргодемс</t>
       </tg>
     </mg>
@@ -3066,7 +3066,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">паломс</t>
       </tg>
     </mg>
@@ -3080,7 +3080,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пурдамс</t>
       </tg>
     </mg>
@@ -3094,7 +3094,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">велявтомс</t>
       </tg>
     </mg>
@@ -3108,7 +3108,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пшкадемс</t>
       </tg>
     </mg>
@@ -3122,7 +3122,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чарамс</t>
       </tg>
     </mg>
@@ -3136,7 +3136,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">алтамс</t>
       </tg>
     </mg>
@@ -3150,7 +3150,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кундамс</t>
       </tg>
     </mg>
@@ -3164,7 +3164,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">оймамс</t>
       </tg>
     </mg>
@@ -3178,7 +3178,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">коламс</t>
       </tg>
     </mg>
@@ -3192,7 +3192,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кортамс</t>
         <t pos="V">басямс</t>
       </tg>
@@ -3207,7 +3207,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кецямс</t>
         <t pos="V">кенярдомс</t>
       </tg>
@@ -3222,7 +3222,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ветямс</t>
       </tg>
     </mg>
@@ -3236,7 +3236,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кучомс</t>
       </tg>
     </mg>
@@ -3250,7 +3250,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">саламс</t>
       </tg>
     </mg>
@@ -3264,7 +3264,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">оршамс</t>
       </tg>
     </mg>
@@ -3278,7 +3278,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тонадомс</t>
       </tg>
     </mg>
@@ -3292,7 +3292,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">содомс</t>
       </tg>
     </mg>
@@ -3306,7 +3306,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сюлмамс</t>
       </tg>
     </mg>
@@ -3320,7 +3320,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">совамс</t>
       </tg>
     </mg>
@@ -3334,7 +3334,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">эждемс</t>
       </tg>
     </mg>
@@ -3348,7 +3348,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">эжемс</t>
       </tg>
     </mg>
@@ -3362,7 +3362,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">бажамс</t>
       </tg>
     </mg>
@@ -3376,7 +3376,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">соламс</t>
       </tg>
     </mg>
@@ -3390,7 +3390,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сёлгомс</t>
       </tg>
     </mg>
@@ -3404,7 +3404,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">жойнемс</t>
         <t pos="V">жольнемс</t>
       </tg>
@@ -3419,7 +3419,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">экшелямс</t>
       </tg>
     </mg>
@@ -3433,7 +3433,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">куломс</t>
       </tg>
     </mg>
@@ -3447,7 +3447,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">паламс</t>
       </tg>
     </mg>
@@ -3461,7 +3461,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">цильдордомс</t>
       </tg>
     </mg>
@@ -3475,7 +3475,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кирдемс</t>
       </tg>
     </mg>
@@ -3489,7 +3489,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тюремс</t>
       </tg>
     </mg>
@@ -3503,7 +3503,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ардомс</t>
       </tg>
     </mg>
@@ -3517,7 +3517,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ардтнемс</t>
       </tg>
     </mg>
@@ -3531,7 +3531,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сюлмамс</t>
       </tg>
     </mg>
@@ -3545,7 +3545,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">максомс вал</t>
       </tg>
     </mg>
@@ -3559,7 +3559,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">поремс</t>
       </tg>
     </mg>
@@ -3573,7 +3573,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ярсамс</t>
       </tg>
     </mg>
@@ -3587,7 +3587,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">андомс</t>
       </tg>
     </mg>
@@ -3601,7 +3601,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сельгемс</t>
       </tg>
     </mg>
@@ -3615,7 +3615,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чачомс</t>
         <t pos="V">шачомс</t>
       </tg>
@@ -3630,7 +3630,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">раштамс</t>
       </tg>
     </mg>
@@ -3644,7 +3644,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чачтомс</t>
         <t pos="V">шачтомс</t>
       </tg>
@@ -3659,7 +3659,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">раштамс</t>
       </tg>
     </mg>
@@ -3673,7 +3673,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кирваземс</t>
       </tg>
     </mg>
@@ -3687,7 +3687,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">андомс</t>
       </tg>
     </mg>
@@ -3701,7 +3701,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чумондомс</t>
       </tg>
     </mg>
@@ -3715,7 +3715,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вельмемс</t>
       </tg>
     </mg>
@@ -3729,7 +3729,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">велявтомс</t>
       </tg>
     </mg>
@@ -3743,7 +3743,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чавомс</t>
       </tg>
     </mg>
@@ -3757,7 +3757,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">киштемс</t>
       </tg>
     </mg>
@@ -3771,7 +3771,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каямс конёв</t>
       </tg>
     </mg>
@@ -3785,7 +3785,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чавомс</t>
       </tg>
     </mg>
@@ -3799,7 +3799,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">эрявомс</t>
       </tg>
     </mg>
@@ -3813,7 +3813,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пандомс</t>
       </tg>
     </mg>
@@ -3827,7 +3827,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">содамс</t>
       </tg>
     </mg>
@@ -3841,7 +3841,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пачтямс вал</t>
       </tg>
     </mg>
@@ -3855,7 +3855,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ёвтамс</t>
       </tg>
     </mg>
@@ -3869,7 +3869,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ильтямс</t>
       </tg>
     </mg>
@@ -3883,7 +3883,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">теемс</t>
       </tg>
     </mg>
@@ -3897,7 +3897,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пичкамс</t>
       </tg>
     </mg>
@@ -3911,7 +3911,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">викшнемс</t>
       </tg>
     </mg>
@@ -3925,7 +3925,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">нежедемс</t>
       </tg>
     </mg>
@@ -3939,7 +3939,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">эрсемс</t>
       </tg>
     </mg>
@@ -3953,7 +3953,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">туемс</t>
       </tg>
     </mg>
@@ -3967,7 +3967,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ускомс</t>
       </tg>
     </mg>
@@ -3981,7 +3981,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">мель витемс</t>
       </tg>
     </mg>
@@ -3995,7 +3995,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">самс</t>
       </tg>
     </mg>
@@ -4009,7 +4009,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ледемс</t>
       </tg>
     </mg>
@@ -4023,7 +4023,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">варчамс</t>
       </tg>
     </mg>
@@ -4037,7 +4037,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">содамс</t>
       </tg>
     </mg>
@@ -4051,7 +4051,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пирямс</t>
       </tg>
     </mg>
@@ -4065,7 +4065,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кепедемс</t>
       </tg>
     </mg>
@@ -4079,7 +4079,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">стамс</t>
       </tg>
     </mg>
@@ -4093,7 +4093,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">важодемс</t>
       </tg>
     </mg>
@@ -4107,7 +4107,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">налкстамс</t>
       </tg>
     </mg>
@@ -4121,7 +4121,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вачомс</t>
       </tg>
     </mg>
@@ -4135,7 +4135,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чаволгадомс</t>
       </tg>
     </mg>
@@ -4149,7 +4149,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вачомс</t>
       </tg>
     </mg>
@@ -4163,7 +4163,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">матедевемс</t>
       </tg>
     </mg>
@@ -4177,7 +4177,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">уемс</t>
       </tg>
     </mg>
@@ -4191,7 +4191,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">зыйнемс</t>
       </tg>
     </mg>
@@ -4205,7 +4205,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">стувтомс</t>
       </tg>
     </mg>
@@ -4219,7 +4219,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ваямс</t>
       </tg>
     </mg>
@@ -4233,7 +4233,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кемемс</t>
       </tg>
     </mg>
@@ -4247,7 +4247,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ваномс</t>
       </tg>
     </mg>
@@ -4261,7 +4261,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">нолдамс</t>
       </tg>
     </mg>
@@ -4275,7 +4275,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">менемс</t>
       </tg>
     </mg>
@@ -4289,7 +4289,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ваямс</t>
       </tg>
     </mg>
@@ -4303,7 +4303,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">навамс</t>
       </tg>
     </mg>
@@ -4317,7 +4317,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">валомс</t>
         <t pos="V">валномс</t>
       </tg>
@@ -4332,7 +4332,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">нуртямс</t>
       </tg>
     </mg>
@@ -4346,7 +4346,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каямс</t>
       </tg>
     </mg>
@@ -4360,7 +4360,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ашолгадомс</t>
       </tg>
     </mg>
@@ -4374,7 +4374,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">валдомомс</t>
       </tg>
     </mg>
@@ -4388,7 +4388,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ёрамс</t>
       </tg>
     </mg>
@@ -4402,7 +4402,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">анокстамс</t>
       </tg>
     </mg>
@@ -4416,7 +4416,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ванстомс</t>
       </tg>
     </mg>
@@ -4430,7 +4430,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сыредемс</t>
       </tg>
     </mg>
@@ -4444,7 +4444,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">таштамс</t>
       </tg>
     </mg>
@@ -4458,7 +4458,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пандомс вал</t>
       </tg>
     </mg>
@@ -4472,7 +4472,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">цидярдомс</t>
       </tg>
     </mg>
@@ -4486,7 +4486,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ускомс</t>
       </tg>
     </mg>
@@ -4500,7 +4500,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ветямс</t>
       </tg>
     </mg>
@@ -4514,7 +4514,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">басямс</t>
         <t pos="V">кортамс</t>
       </tg>
@@ -4529,7 +4529,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">томбамс</t>
       </tg>
     </mg>
@@ -4543,7 +4543,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пиземс</t>
       </tg>
     </mg>
@@ -4557,7 +4557,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ускомс</t>
       </tg>
     </mg>
@@ -4571,7 +4571,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сэзнемс</t>
       </tg>
     </mg>
@@ -4585,7 +4585,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">нуемс</t>
       </tg>
     </mg>
@@ -4599,7 +4599,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">зыйнемс</t>
       </tg>
     </mg>
@@ -4613,7 +4613,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ёртомс</t>
       </tg>
     </mg>
@@ -4627,7 +4627,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чудемс</t>
       </tg>
     </mg>
@@ -4641,7 +4641,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чадомс</t>
       </tg>
     </mg>
@@ -4655,7 +4655,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">кочкамс</t>
       </tg>
     </mg>
@@ -4669,7 +4669,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">лисемс</t>
       </tg>
     </mg>
@@ -4683,7 +4683,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">артомс</t>
       </tg>
     </mg>
@@ -4697,7 +4697,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сиземс</t>
       </tg>
     </mg>
@@ -4711,7 +4711,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">изьнямс</t>
       </tg>
     </mg>
@@ -4725,7 +4725,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">саемс</t>
       </tg>
     </mg>
@@ -4739,7 +4739,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">озамс</t>
       </tg>
     </mg>
@@ -4753,7 +4753,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каямс</t>
       </tg>
     </mg>
@@ -4767,7 +4767,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">изамс</t>
       </tg>
     </mg>
@@ -4781,7 +4781,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">каямс</t>
       </tg>
     </mg>
@@ -4795,7 +4795,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">сэвемс</t>
       </tg>
     </mg>
@@ -4809,7 +4809,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">вельмемс</t>
       </tg>
     </mg>
@@ -4823,7 +4823,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">стамс</t>
       </tg>
     </mg>
@@ -4837,7 +4837,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тонавтомс</t>
       </tg>
     </mg>
@@ -4851,7 +4851,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">тонавтнемс</t>
       </tg>
     </mg>
@@ -4865,7 +4865,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">чадомс</t>
       </tg>
     </mg>
@@ -4879,7 +4879,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ванномс</t>
       </tg>
     </mg>
@@ -4893,7 +4893,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">куземс</t>
       </tg>
     </mg>
@@ -4907,7 +4907,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">меремс</t>
       </tg>
     </mg>
@@ -4921,7 +4921,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">ёвтамс</t>
       </tg>
     </mg>
@@ -4935,7 +4935,7 @@
     </lg>
     <mg>
       <defNative/>
-      <tg xml:lang="fin">
+      <tg xml:lang="myv">
         <t pos="V">пандомс вал</t>
       </tg>
     </mg>
