@@ -130,7 +130,7 @@
       </tg>
       <xg>
 	<x>hall lammas</x>
-	<xt>чельке тюс марто реве</xt>
+	<xt xml:lang="myv">чельке тюс марто реве</xt>
       </xg>
     </mg>
     <mg>
@@ -140,7 +140,7 @@
       </tg>
       <xg>
 	<x>hall päev</x>
-	<xt>нусманя чи</xt>
+	<xt xml:lang="myv">нусманя чи</xt>
       </xg>
     </mg>
   </e>
@@ -580,7 +580,7 @@
       </tg>
       <xg>
 	<x>libe tee</x>
-	<xt>нолажа ки</xt>
+	<xt xml:lang="myv">нолажа ки</xt>
       </xg>
     </mg>
   </e>
@@ -612,7 +612,7 @@
       </tg>
       <xg>
 	<x>linane riie</x>
-	<xt>лияназонь коцт</xt>
+	<xt xml:lang="myv">лияназонь коцт</xt>
       </xg>
     </mg>
   </e>
